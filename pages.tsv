@@ -1,0 +1,1827 @@
+PAGE_ID	PAGE_NAME	PAGE_URL	IS_ROUTE
+1	Red River Gorge	/v/red-river-gorge/105841134	false
+2	Amusement Park, The	/v/the-amusement-park/105869499	false
+3	Bald Rock Recreational Preserve	/v/bald-rock-recreational-preserve/112439039	false
+4	Bee Branch	/v/bee-branch/105868149	false
+5	Beer Trailer Crag	/v/beer-trailer-crag/108086113	false
+6	Blackburn Rock	/v/blackburn-rock/105868146	false
+7	Camp Store Crag	/v/camp-store-crag/107388627	false
+8	Chimney Top Rock	/v/chimney-top-rock/105869132	false
+9	Clearcut Wall	/v/clearcut-wall/107699090	false
+10	Courthouse Rock	/v/courthouse-rock/105868215	false
+11	Dip Wall	/v/dip-wall/105868828	false
+12	Dunkan Rock	/v/dunkan-rock/108437333	false
+13	Eagle Point Buttress	/v/eagle-point-buttress/105868819	false
+14	Eastern Sky Bridge Ridge	/v/eastern-sky-bridge-ridge/105868804	false
+15	Emerald City	/v/emerald-city/105868026	false
+16	Fortress Wall	/v/fortress-wall/105869125	false
+17	Friction Slab	/v/friction-slab/106569392	false
+18	Funk Rock City	/v/funk-rock-city/105868795	false
+19	Global Village	/v/global-village/105868030	false
+20	Graining Fork Nature Preserve (a.k.a. Roadside Crag)	/v/graining-fork-nature-preserve-aka-roadside-crag/105868013	false
+21	Gun Crag	/v/gun-crag/105869150	false
+22	Half Moon Rock	/v/half-moon-rock/105869135	false
+23	Haystack Rock	/v/haystack-rock/105868208	false
+24	Heights, The	/v/the-heights/105883490	false
+25	Hen's Nest Rock	/v/hens-nest-rock/106730354	false
+26	Indian Creek 	/v/indian-creek-/106404791	false
+27	Jazz Rock	/v/jazz-rock/105868834	false
+28	Jewel Pinnacle	/v/jewel-pinnacle/105869064	false
+29	Kentucky Wall, The	/v/the-kentucky-wall/110529502	false
+30	Left Flank	/v/left-flank/105868848	false
+31	Long Wall	/v/long-wall/105867655	false
+32	Lost Ridge	/v/lost-ridge/107845035	false
+33	Lower Sky Bridge Ridge	/v/lower-sky-bridge-ridge/106973464	false
+34	Lower Small Wall	/v/lower-small-wall/105874420	false
+35	Lumpy Wall	/v/lumpy-wall/105867986	false
+36	Mariba Fork	/v/mariba-fork/107847971	false
+37	Middle Small Wall	/v/middle-small-wall/105891226	false
+38	Military Wall	/v/military-wall/105868851	false
+39	Miller Fork Recreational Preserve (MFRP)	/v/miller-fork-recreational-preserve-mfrp/110230324	false
+40	Minas Tirith	/v/minas-tirith/105867983	false
+41	Moonshiner's Wall	/v/moonshiners-wall/108168979	false
+42	Mt. Olive Rock	/v/mt-olive-rock/106385143	false
+43	Muir Valley	/v/muir-valley/105869138	false
+44	Muscle Beach	/v/muscle-beach/105868831	false
+45	Pebble Beach	/v/pebble-beach/105867978	false
+46	Pendergrass-Murray Recreational Preserve (PMRP)	/v/pendergrass-murray-recreational-preserve-pmrp/106585368	false
+47	Phantasia	/v/phantasia/105869128	false
+48	Pinch Em Tight	/v/pinch-em-tight/105869067	false
+49	Pistol Ridge	/v/pistol-ridge/105868100	false
+50	Purple Valley	/v/purple-valley/105868825	false
+51	Raven Rock	/v/raven-rock/105919809	false
+52	See Rocks	/v/see-rocks/105868233	false
+53	Shallow Boulder 	/v/shallow-boulder-/110993279	false
+54	Symphony Wall	/v/symphony-wall/105917594	false
+55	Torrent Falls	/v/torrent-falls/105869141	false
+56	Tower Rock	/v/tower-rock/105872607	false
+57	Tunnel Wall	/v/tunnel-wall/109007449	false
+58	Wall of Denial	/v/wall-of-denial/105868816	false
+59	Western Sky Bridge Ridge	/v/western-sky-bridge-ridge/105868801	false
+60	Whittleton Branch	/v/whittleton-branch/105868055	false
+61	Willie's Wall	/v/willies-wall/105868841	false
+62	Zoo, The	/v/the-zoo/105869144	false
+63	Bird Cage Sector	/v/bird-cage-sector/111061995	false
+64	New Zoo, The	/v/the-new-zoo/111061980	false
+65	Old Zoo, The	/v/the-old-zoo/111061973	false
+66	Animal Husbandry	/v/animal-husbandry/111046822	true
+67	Armadillo	/v/armadillo/105918082	true
+68	Aviary 	/v/aviary-/111046858	true
+69	Cannonball	/v/cannonball/106309932	true
+70	Chimp	/v/chimp/105918086	true
+71	Edgehog	/v/edgehog/106127530	true
+72	Geezers Go Sport	/v/geezers-go-sport/106127916	true
+73	Hippocrite	/v/hippocrite/106126244	true
+74	Jail Bird	/v/jail-bird/106129055	true
+75	Lynx Jinx	/v/lynx-jinx/106579832	true
+76	Monkey in the Middle	/v/monkey-in-the-middle/106127925	true
+77	On Beyond Zebra!	/v/on-beyond-zebra/106579826	true
+78	One Brick Shy	/v/one-brick-shy/105918096	true
+79	Put Me In The Zoo	/v/put-me-in-the-zoo/105918073	true
+80	Scar Tissue	/v/scar-tissue/106309924	true
+81	Skin The Cat	/v/skin-the-cat/105918091	true
+82	Zoo Keeper	/v/zoo-keeper/112887066	true
+83	BabaBooey	/v/bababooey/111054034	true
+84	Barrel Full of Monkeys	/v/barrel-full-of-monkeys/108941985	true
+85	Gunner	/v/gunner/113551621	true
+86	Hippopotomoose	/v/hippopotomoose/111008257	true
+87	Honey Badger	/v/honey-badger/111054024	true
+88	Irony of a Twisted Fate	/v/irony-of-a-twisted-fate/111054011	true
+89	Peyote Pup, The	/v/the-peyote-pup/111050560	true
+90	Sendex 147	/v/sendex-147/111050547	true
+91	Sidewinder	/v/sidewinder/111053967	true
+92	Sparkling Jackass	/v/sparkling-jackass/111050432	true
+93	Speedy Gonzalez	/v/speedy-gonzalez/111053991	true
+94	Action Potential	/v/action-potential/112798234	true
+95	Botanical Gardens	/v/botanical-gardens/111219181	true
+96	Bumpin With Bulldog	/v/bumpin-with-bulldog/113332461	true
+97	Can of Biscuits	/v/can-of-biscuits/111219104	true
+98	Crimpin' Ain't Easy	/v/crimpin-aint-easy/112798141	true
+99	Dirty Bird	/v/dirty-bird/111219168	true
+100	Eager Beaver	/v/eager-beaver/111619983	true
+101	Goblins in My Mind	/v/goblins-in-my-mind/112798288	true
+102	Gunner	/v/gunner/111219150	true
+103	Here Comes the Beep Beep	/v/here-comes-the-beep-beep/112798255	true
+104	Lone Coyote 	/v/lone-coyote-/111785547	true
+105	Romance Explosion	/v/romance-explosion/112798104	true
+106	Snake Charmer	/v/snake-charmer/112798114	true
+107	Sons of Perdition	/v/sons-of-perdition/111053950	true
+108	Lust At First Sight	/v/lust-at-first-sight/105870015	true
+109	Missing the Obvious	/v/missing-the-obvious/105869213	true
+110	Prozac Nation	/v/prozac-nation/105869223	true
+111	She Loves Me	/v/she-loves-me/105869218	true
+112	Gemini Crack	/v/gemini-crack/105865977	true
+113	Tuff Noogies	/v/tuff-noogies/105865970	true
+114	Return of Geoff Beene, The	/v/the-return-of-geoff-beene/106166709	true
+115	Upstream Swimmer	/v/upstream-swimmer/107621644	true
+116	11:11	/v/1111/106282961	true
+117	Anne's Crack	/v/annes-crack/106457752	true
+118	Bongo	/v/bongo/105880960	true
+119	Buckeye Testpiece	/v/buckeye-testpiece/105880979	true
+120	Campfire Crank	/v/campfire-crank/106282950	true
+121	Cold Shot	/v/cold-shot/105870306	true
+122	Funhouse	/v/funhouse/105880996	true
+123	Hair Of the Dog	/v/hair-of-the-dog/112834343	true
+124	New Red River	/v/new-red-river/105880966	true
+125	Pink Panties Pulldown	/v/pink-panties-pulldown/105880989	true
+126	Red River Renaissance	/v/red-river-renaissance/106457744	true
+127	Strick 9	/v/strick-9/105880973	true
+128	Toxic Avenger	/v/toxic-avenger/105880984	true
+129	Negative Energy	/v/negative-energy/109007452	true
+130	Africa	/v/africa/106437910	true
+131	Arachnid	/v/arachnid/105882818	true
+132	Caver's Route	/v/cavers-route/105882024	true
+133	Curving Crack	/v/curving-crack/105889521	true
+134	Dog Days	/v/dog-days/105889513	true
+135	Groundhog	/v/groundhog/106494791	true
+136	Mighty Eidson	/v/mighty-eidson/105882347	true
+137	Salad Days	/v/salad-days/106581192	true
+138	Squeezebox	/v/squeezebox/113513095	true
+139	Bandolier	/v/bandolier/105918062	true
+140	Bare Metal Teen	/v/bare-metal-teen/106290300	true
+141	Big Money Grip	/v/big-money-grip/106020245	true
+142	Centerfire	/v/centerfire/106290265	true
+143	Cordelia	/v/cordelia/107639451	true
+144	Del Boy	/v/del-boy/107368128	true
+145	Dream of a Bee	/v/dream-of-a-bee/107321345	true
+146	Family Values	/v/family-values/105893136	true
+147	Hmmm	/v/hmmm/108105789	true
+148	Ode to Poopie Head	/v/ode-to-poopie-head/113390957	true
+149	Pocket Pussy	/v/pocket-pussy/106290243	true
+150	Poopie Head	/v/poopie-head/107387489	true
+151	Racer X	/v/racer-x/106333629	true
+152	Reanimator	/v/reanimator/106937715	true
+153	Receiver	/v/receiver/106309947	true
+154	Recoil	/v/recoil/106957123	true
+155	Rest Assured	/v/rest-assured/105893133	true
+156	Seek The Truth	/v/seek-the-truth/106290282	true
+157	Sex Show	/v/sex-show/106370678	true
+158	Sport for Brains	/v/sport-for-brains/106957146	true
+159	Steelworker	/v/steelworker/106333624	true
+160	Stool Sample	/v/stool-sample/108060970	true
+161	Tourist Trap	/v/tourist-trap/106937723	true
+162	Us and Them	/v/us-and-them/107368109	true
+163	Wadcutter AKA "Gumby Killer"	/v/wadcutter-aka-gumby-killer/105870283	true
+164	Windy corner	/v/windy-corner/106166699	true
+165	Arms M. Bargo	/v/arms-m-bargo/105917872	true
+166	Boogered	/v/boogered/105917603	true
+167	Pop Tart	/v/pop-tart/105917599	true
+168	Horsefly	/v/horsefly/110993297	true
+169	Middle Rock	/v/middle-rock/105868251	false
+170	North Rock	/v/north-rock/105868247	false
+171	South Rock	/v/south-rock/105868255	false
+172	South Ridge	/v/south-ridge/105868290	true
+173	North Face, aka the Cable Route	/v/north-face-aka-the-cable-route/105868260	true
+174	Keyhole Route	/v/keyhole-route/105868276	true
+175	Nevermore	/v/nevermore/106837613	true
+176	5.11 Jimmy and Spike Go Craggin'	/v/511-jimmy-and-spike-go-craggin/106176804	true
+177	A Way of Life	/v/a-way-of-life/107717986	true
+178	Big Crack	/v/big-crack/106840052	true
+179	Burden of Dreams	/v/burden-of-dreams/108343367	true
+180	Captain One Eye	/v/captain-one-eye/105870336	true
+181	Coffee Talk	/v/coffee-talk/106641255	true
+182	Come In Your Lycra	/v/come-in-your-lycra/105977711	true
+183	Delusions of Grandeur	/v/delusions-of-grandeur/106641263	true
+184	Electric Cowboy	/v/electric-cowboy/105917907	true
+185	Flaring Crack	/v/flaring-crack/106840059	true
+186	Grunt	/v/grunt/105891716	true
+187	Hot Licks and Rhetoric	/v/hot-licks-and-rhetoric/105891720	true
+188	Into the Purple Valley	/v/into-the-purple-valley/105872472	true
+189	It Ain't Easy Bein Squeezy	/v/it-aint-easy-bein-squeezy/107729227	true
+190	Love Shack, The	/v/the-love-shack/106641271	true
+191	Pebbly Poo	/v/pebbly-poo/105872480	true
+192	Pleasant Surprise	/v/pleasant-surprise/106176791	true
+193	Shish-kebab	/v/shish-kebab/107718010	true
+194	Social Butterfly	/v/social-butterfly/106176798	true
+195	A Fresh Start	/v/a-fresh-start/108877939	true
+196	Armed	/v/armed/107639233	true
+197	Bitchmobile	/v/bitchmobile/107286734	true
+198	Black Friday	/v/black-friday/111927066	true
+199	Chem Studs	/v/chem-studs/106837601	true
+200	Crouching Tiger	/v/crouching-tiger/107989289	true
+201	Danger Mouse	/v/danger-mouse/106371779	true
+202	Double Helix	/v/double-helix/107090076	true
+203	Dreams	/v/dreams/105868107	true
+204	Hidden Dragon	/v/hidden-dragon/107989299	true
+205	It's a Wonderful Life	/v/its-a-wonderful-life/106371748	true
+206	Menifee Meth	/v/menifee-meth/107699031	true
+207	Misadventures of Nabisco County, Jr., The	/v/the-misadventures-of-nabisco-county-jr/110459238	true
+208	Ol' Yeller	/v/ol-yeller/112388613	true
+209	People Gully	/v/people-gully/108877951	true
+210	Please Don't Feed the Triceratops	/v/please-dont-feed-the-triceratops/106371769	true
+211	Refrigerator, The	/v/the-refrigerator/106371786	true
+212	Ride 'em Cowboy	/v/ride-em-cowboy/107628759	true
+213	Solar Flare	/v/solar-flare/110189042	true
+214	Spinnacle 	/v/spinnacle-/112388595	true
+215	Super Gun	/v/super-gun/108877925	true
+216	When Doves Cry	/v/when-doves-cry/107990173	true
+217	X Files, The	/v/the-x-files/107699020	true
+218	Duke's Day	/v/dukes-day/105865736	true
+219	Attack of the Sand Shark	/v/attack-of-the-sand-shark/106577327	true
+220	Bobsledding	/v/bobsledding/107525875	true
+221	Count Floyd Show	/v/count-floyd-show/105889544	true
+222	Creature Feature	/v/creature-feature/105889536	true
+223	Creep Show	/v/creep-show/105889540	true
+224	Grand Bazaar	/v/grand-bazaar/108255409	true
+225	Gum Traverse, The	/v/the-gum-traverse/109121041	true
+226	Le Petite Bazaar	/v/le-petite-bazaar/108255417	true
+227	Lord of the Flies	/v/lord-of-the-flies/106149032	true
+228	Luck's Up	/v/lucks-up/108255400	true
+229	Overlord	/v/overlord/106149038	true
+230	Perverse Intentions	/v/perverse-intentions/106727865	true
+231	Phantasia	/v/phantasia/106333594	true
+232	Pogue Ethics	/v/pogue-ethics/106149020	true
+233	St. Alfonso's	/v/st-alfonsos/105963178	true
+234	Tomfoolery	/v/tomfoolery/107276677	true
+235	Trogdor's Crack (pending)	/v/trogdors-crack-pending/113100082	true
+236	Twinkie	/v/twinkie/106132213	true
+237	You Got Served	/v/you-got-served/108255429	true
+238	Bob Marley	/v/bob-marley/106091151	false
+239	Brightside	/v/brightside/107873732	false
+240	Bronaugh Wall	/v/bronaugh-wall/106782212	false
+241	Chica Bonita Wall	/v/chica-bonita-wall/106064908	false
+242	Courtesy Wall	/v/courtesy-wall/107304759	false
+243	Crossroads, The	/v/the-crossroads/106816777	false
+244	Curbside	/v/curbside/106124432	false
+245	Dark Side, The	/v/the-dark-side/106324386	false
+246	Drive-By Crag	/v/drive-by-crag/106081597	false
+247	Far Side	/v/far-side/106971701	false
+248	Gallery, The	/v/the-gallery/106124262	false
+249	Left Field	/v/left-field/106849624	false
+250	North 40	/v/north-40/106124305	false
+251	Playground, The	/v/the-playground/106173997	false
+252	Purgatory	/v/purgatory/106575822	false
+253	Rival Wall	/v/rival-wall/107132532	false
+254	Shady Grove	/v/shady-grove/106585413	false
+255	Ship Yard, The	/v/the-ship-yard/110334742	false
+256	Shire, The	/v/the-shire/106885707	false
+257	Solar Collector/Gold Coast	/v/solar-collectorgold-coast/105874434	false
+258	Velo Crag	/v/velo-crag/109609520	false
+259	Volunteer Wall	/v/volunteer-wall/106124276	false
+260	What About Bob Wall	/v/what-about-bob-wall/107132481	false
+261	Adventures of the Leper Nurse	/v/adventures-of-the-leper-nurse/108908601	true
+262	Alternative Medicines	/v/alternative-medicines/107132492	true
+263	Bowling Pain	/v/bowling-pain/107132510	true
+264	Brothel Doc	/v/brothel-doc/109644863	true
+265	Hole 	/v/hole-/111818751	true
+266	Kentucky Flu	/v/kentucky-flu/107336284	true
+267	Maximus	/v/maximus/108384228	true
+268	No Sleep Til' Campton	/v/no-sleep-til-campton/107132484	true
+269	Optical Rectitus	/v/optical-rectitus/107622061	true
+270	Stem Cell 	/v/stem-cell-/108384248	true
+271	Threat Level Blue	/v/threat-level-blue/108182026	true
+272	Weathertop Stings 	/v/weathertop-stings-/108384240	true
+273	Darwin Loves You	/v/darwin-loves-you/106653826	true
+274	Donor	/v/donor/107180674	true
+275	Family Tradition	/v/family-tradition/106309585	true
+276	Farley's Folly	/v/farleys-folly/108096318	true
+277	First Time	/v/first-time/106849475	true
+278	Generosity	/v/generosity/106969872	true
+279	Helping Hands	/v/helping-hands/106538985	true
+280	Hurt	/v/hurt/106849536	true
+281	Johnny on Roofies	/v/johnny-on-roofies/106446581	true
+282	Nice To Know You	/v/nice-to-know-you/107089996	true
+283	Normalised Bramapithecus	/v/normalised-bramapithecus/107104918	true
+284	Pinkies Extended	/v/pinkies-extended/108392096	true
+285	Same Way	/v/same-way/108434225	true
+286	Stephanie's Cabaret	/v/stephanies-cabaret/108391863	true
+287	Swap Meet	/v/swap-meet/106849486	true
+288	Tong Shing	/v/tong-shing/106653818	true
+289	Walmartification of Trad, The	/v/the-walmartification-of-trad/108478676	true
+290	Century, The	/v/the-century/112273142	true
+291	Dura-Ace	/v/dura-ace/109609523	true
+292	Eddie Merckx Gets a Perm	/v/eddie-merckx-gets-a-perm/110334667	true
+293	Lanterne Rouge	/v/lanterne-rouge/109609554	true
+294	Lightning Rod Arete	/v/lightning-rod-arete/112216544	true
+295	Real Girls Don't Pumptrack	/v/real-girls-dont-pumptrack/112273137	true
+296	Ultegra	/v/ultegra/110334638	true
+297	7-11	/v/7-11/111146086	true
+298	Amelia's Birthday	/v/amelias-birthday/112796861	true
+299	Black Gold	/v/black-gold/106975129	true
+300	Blue Eyed Honkey Jesus	/v/blue-eyed-honkey-jesus/106954396	true
+301	Brambly Downslide	/v/brambly-downslide/107080668	true
+302	Broken Chicken Wing 	/v/broken-chicken-wing-/107669659	true
+303	Buddha Hole	/v/buddha-hole/106920312	true
+304	Chester Fried Chicken	/v/chester-fried-chicken/108344446	true
+305	Chicken Boy	/v/chicken-boy/106925383	true
+306	Decline of Western Civilization	/v/decline-of-western-civilization/107878537	true
+307	Erik's First 5.6	/v/eriks-first-56/108434317	true
+308	Erik's Second 5.6	/v/eriks-second-56/110052415	true
+309	Ethics Police	/v/ethics-police/106920320	true
+310	Forgive Me Amy, For I Have Sent	/v/forgive-me-amy-for-i-have-sent/107845311	true
+311	Fubar	/v/fubar/110295638	true
+312	God's Own Stone	/v/gods-own-stone/107055890	true
+313	Golden Boy	/v/golden-boy/107055840	true
+314	Golden Shower	/v/golden-shower/112310716	true
+315	Green Horn	/v/green-horn/106707062	true
+316	Herd Mentality	/v/herd-mentality/106324547	true
+317	Highway Turtle	/v/highway-turtle/106975171	true
+318	Lucky Duck Soup	/v/lucky-duck-soup/106817435	true
+319	Mona Lisa Overdrive 	/v/mona-lisa-overdrive-/106925375	true
+320	No Fluff	/v/no-fluff/107055928	true
+321	Norway On My Mind	/v/norway-on-my-mind/106973588	true
+322	On the Prowl	/v/on-the-prowl/107133269	true
+323	Peer Review	/v/peer-review/113237146	true
+324	Perfect Pint, The	/v/the-perfect-pint/106875546	true
+325	Rebar	/v/rebar/107080870	true
+326	Red Shift	/v/red-shift/112305987	true
+327	Slow Jack	/v/slow-jack/107606203	true
+328	Smoothie Nut	/v/smoothie-nut/107834516	true
+329	Space Junk	/v/space-junk/107371014	true
+330	Sunny the Boxer	/v/sunny-the-boxer/108165689	true
+331	Suns Out Guns Out	/v/suns-out-guns-out/111146769	true
+332	Supafly	/v/supafly/106324559	true
+333	Super Pinch	/v/super-pinch/106588480	true
+334	True Love	/v/true-love/107055857	true
+335	Zone of Silence	/v/zone-of-silence/106975163	true
+336	Audie	/v/audie/106885721	true
+337	Buffalo Crickets	/v/buffalo-crickets/111810339	true
+338	Bulldozer	/v/bulldozer/106885753	true
+339	Earth-Bound Misfit	/v/earth-bound-misfit/108857366	true
+340	G-Man, The	/v/the-g-man/106885734	true
+341	K.S.B.	/v/ksb/106885779	true
+342	Miranda Rayne	/v/miranda-rayne/106885726	true
+343	My Name is Earl	/v/my-name-is-earl/107370652	true
+344	Pee-Wee	/v/pee-wee/107807554	true
+345	Significant Other	/v/significant-other/106885744	true
+346	Cabin Boy Fever	/v/cabin-boy-fever/112893274	true
+347	Kiss the Manta Ray	/v/kiss-the-manta-ray/110334755	true
+348	Citizen's Arete	/v/citizens-arete/106982510	true
+349	Coming Out Party	/v/coming-out-party/106912621	true
+350	Crucify Me	/v/crucify-me/107062126	true
+351	False Idol	/v/false-idol/107062135	true
+352	Far From God	/v/far-from-god/106912616	true
+353	Girls Gone Wild..WOO!	/v/girls-gone-wildwoo/106702996	true
+354	Irreverent C	/v/irreverent-c/108143848	true
+355	Listerine Girl	/v/listerine-girl/107062156	true
+356	Street Fight	/v/street-fight/108997649	true
+357	Taste the Rainbow	/v/taste-the-rainbow/107534591	true
+358	Which is Which	/v/which-is-which/113440070	true
+359	Who is Who	/v/who-is-who/113237108	true
+360	Who Knows?	/v/who-knows/110296041	true
+361	Days of Thunder	/v/days-of-thunder/107860025	true
+362	Delayed Gratification	/v/delayed-gratification/107132538	true
+363	Hatfield	/v/hatfield/107132554	true
+364	Lobster Claw	/v/lobster-claw/108421137	true
+365	May As Well	/v/may-as-well/110861864	true
+366	McCoy	/v/mccoy/110861833	true
+367	Monobrow	/v/monobrow/107685747	true
+368	Rorshach Inkblot Test	/v/rorshach-inkblot-test/107684861	true
+369	Believer	/v/believer/106575856	true
+370	Dracula '04	/v/dracula-04/106584658	true
+371	Fallen Angel	/v/fallen-angel/111835625	true
+372	Fat Man's Misery	/v/fat-mans-misery/112504012	true
+373	Gimp, The	/v/the-gimp/107903491	true
+374	Gluttony	/v/gluttony/106575842	true
+375	Hellraiser	/v/hellraiser/106575837	true
+376	Jumbo Shrimp	/v/jumbo-shrimp/107903509	true
+377	Paradise Lost	/v/paradise-lost/106575827	true
+378	Special Boy	/v/special-boy/106584667	true
+379	Balance Beam	/v/balance-beam/107059260	true
+380	Capture the Flag	/v/capture-the-flag/106604816	true
+381	Crack the Whip	/v/crack-the-whip/106604822	true
+382	Jungle Gym	/v/jungle-gym/106604805	true
+383	Monkey Bars	/v/monkey-bars/106604790	true
+384	Octopus Tag	/v/octopus-tag/106658553	true
+385	Red Rover	/v/red-rover/107059233	true
+386	Slide	/v/slide/106702543	true
+387	Steal the Bacon	/v/steal-the-bacon/107059244	true
+388	Teeter Totter	/v/teeter-totter/107059269	true
+389	Tire Swing	/v/tire-swing/106702538	true
+390	Amarillo Sunset	/v/amarillo-sunset/106286394	true
+391	Barbed Wire	/v/barbed-wire/106782135	true
+392	Samurai	/v/samurai/106782101	true
+393	Summer Breeze	/v/summer-breeze/111679318	true
+394	Yosemite Sam	/v/yosemite-sam/111206271	true
+395	Apoplectic Chick from Missouri	/v/apoplectic-chick-from-missouri/107289398	true
+396	Autograph	/v/autograph/107289404	true
+397	Come To Me, Marie	/v/come-to-me-marie/108705380	true
+398	Flee From Fixer	/v/flee-from-fixer/108732455	true
+399	Jack Move	/v/jack-move/108078319	true
+400	Jet Lag	/v/jet-lag/107289422	true
+401	Lowered Expectations	/v/lowered-expectations/106849627	true
+402	Return to Zoe	/v/return-to-zoe/111490745	true
+403	Thru Space and Time	/v/thru-space-and-time/106973595	true
+404	 Murano	/v/-murano/106125082	true
+405	27 Years of Climbing	/v/27-years-of-climbing/106125099	true
+406	A Brief History of Climb	/v/a-brief-history-of-climb/106125070	true
+407	All Draws and No Brains	/v/all-draws-and-no-brains/111490728	true
+408	All That Glitters	/v/all-that-glitters/109612969	true
+409	All That Quivers	/v/all-that-quivers/112832892	true
+410	Bottle Infrontome	/v/bottle-infrontome/112802279	true
+411	Break the Scene	/v/break-the-scene/106924124	true
+412	Crimpy and the Brain	/v/crimpy-and-the-brain/111490719	true
+413	Crude Awakening	/v/crude-awakening/111696284	true
+414	Dain Bramage	/v/dain-bramage/112289843	true
+415	Darkside of the Flume	/v/darkside-of-the-flume/107791113	true
+416	DaVinci's Left Ear	/v/davincis-left-ear/106937642	true
+417	Different Strokes	/v/different-strokes/106702950	true
+418	Frontal Lobotomy	/v/frontal-lobotomy/112802270	true
+419	Gold Rush	/v/gold-rush/106980972	true
+420	Guernica	/v/guernica/108469779	true
+421	Guernica (To first anchor)	/v/guernica-to-first-anchor/108485824	true
+422	Happy Trails	/v/happy-trails/106125118	true
+423	Johnny B. Good	/v/johnny-b-good/106154626	true
+424	King Lives On, The	/v/the-king-lives-on/106125110	true
+425	Mosaic	/v/mosaic/106895798	true
+426	No Brain, No Pain	/v/no-brain-no-pain/110293313	true
+427	NoBody Wins	/v/nobody-wins/111757173	true
+428	Preacher's Daughter, The	/v/the-preachers-daughter/107879859	true
+429	Random Precision	/v/random-precision/106577204	true
+430	Short By a Foot	/v/short-by-a-foot/111910470	true
+431	Starry Night	/v/starry-night/112289818	true
+432	Zen and the Art of Masturbation	/v/zen-and-the-art-of-masturbation/108466010	true
+433	Dirty Sanchez	/v/dirty-sanchez/106971704	true
+434	Nameless	/v/nameless/112179454	true
+435	Papa Loves Jugs	/v/papa-loves-jugs/107567697	true
+436	Subject to Change	/v/subject-to-change/106971714	true
+437	A Wave New World	/v/a-wave-new-world/109714325	true
+438	Angry Birds	/v/angry-birds/108343714	true
+439	Arachnophobia	/v/arachnophobia/106967509	true
+440	Beer Belly	/v/beer-belly/106575738	true
+441	Big Sinkin' Breakdown	/v/big-sinkin-breakdown/110386937	true
+442	Breakfast Burrito	/v/breakfast-burrito/106081922	true
+443	Captain Turtle Head	/v/captain-turtle-head/111712903	true
+444	Check Your Grip	/v/check-your-grip/106081909	true
+445	Dangling Participle	/v/dangling-participle/111800807	true
+446	Deeper is Better	/v/deeper-is-better/111769220	true
+447	Dirty Smelly Hippie	/v/dirty-smelly-hippie/106510749	true
+448	Easy Rider	/v/easy-rider/107915900	true
+449	End of Days	/v/end-of-days/112511149	true
+450	Extra Backup	/v/extra-backup/109446737	true
+451	Fire and Brimstone	/v/fire-and-brimstone/106081931	true
+452	George of the Jungle	/v/george-of-the-jungle/111769190	true
+453	Guilty Pleasure	/v/guilty-pleasure/109717449	true
+454	Hakuna Matata	/v/hakuna-matata/107329629	true
+455	Hanging Tree, The	/v/the-hanging-tree/109694937	true
+456	Harshin' my Mellow	/v/harshin-my-mellow/109522470	true
+457	Head and Shoulders	/v/head-and-shoulders/106124718	true
+458	Jungle Direct	/v/jungle-direct/111769209	true
+459	Junior's Gesture	/v/juniors-gesture/109612467	true
+460	Kaleidescope	/v/kaleidescope/106975111	true
+461	Layback and Groove	/v/layback-and-groove/110415771	true
+462	Maizy Mae	/v/maizy-mae/106298809	true
+463	Make  A Wish	/v/make-a-wish/106081926	true
+464	Mud on the Rug	/v/mud-on-the-rug/106765595	true
+465	Naked Lunch	/v/naked-lunch/107906862	true
+466	Pottsville Escarpment	/v/pottsville-escarpment/109481163	true
+467	Primus Noctum	/v/primus-noctum/106091144	true
+468	Return to Sender	/v/return-to-sender/109612502	true
+469	Slick and the 9mm	/v/slick-and-the-9mm/106577353	true
+470	Slut Men	/v/slut-men/109644830	true
+471	Sojourner Truth	/v/sojourner-truth/109481550	true
+472	Spank	/v/spank/106615729	true
+473	Spirit Fingers	/v/spirit-fingers/106081940	true
+474	Thug Life	/v/thug-life/109788732	true
+475	Whip-Stocking	/v/whip-stocking/106081917	true
+476	Whipper Snapper	/v/whipper-snapper/106081913	true
+477	Yadda Yadda Yadda	/v/yadda-yadda-yadda/106260100	true
+478	American Dream	/v/american-dream/106324532	true
+479	Barn Dance	/v/barn-dance/108943392	true
+480	Big Burly	/v/big-burly/107389029	true
+481	Count Dooku	/v/count-dooku/110429174	true
+482	Dagobah	/v/dagobah/111840469	true
+483	Elephant Man	/v/elephant-man/107285975	true
+484	Evil Emperor	/v/evil-emperor/107941228	true
+485	Force, The	/v/the-force/106584648	true
+486	Grippy Green	/v/grippy-green/108383625	true
+487	It's a Trap!	/v/its-a-trap/107941251	true
+488	Mama Benson	/v/mama-benson/106324389	true
+489	Mind Meld	/v/mind-meld/107055917	true
+490	Padawan	/v/padawan/106324468	true
+491	Phantom Menace	/v/phantom-menace/111309857	true
+492	Praestantissimum	/v/praestantissimum/107900437	true
+493	Return of Darth Moll	/v/return-of-darth-moll/107285945	true
+494	Shanghai	/v/shanghai/106324515	true
+495	Small Fry	/v/small-fry/106962365	true
+496	Stormtrooper	/v/stormtrooper/107941233	true
+497	Straight Outta Campton	/v/straight-outta-campton/107059702	true
+498	Swing Line	/v/swing-line/107083640	true
+499	Techulicious	/v/techulicious/107055923	true
+500	Tusken Raider	/v/tusken-raider/107055911	true
+501	Wookie Love Nest	/v/wookie-love-nest/107941237	true
+502	Young Jedi	/v/young-jedi/107791090	true
+503	Action over Apathy	/v/action-over-apathy/109641623	true
+504	Ankle Brute	/v/ankle-brute/111608435	true
+505	Conscription	/v/conscription/106782169	true
+506	Curbside No Traction	/v/curbside-no-traction/111234838	true
+507	Ghost in the Machine	/v/ghost-in-the-machine/106782196	true
+508	Massive Attack	/v/massive-attack/109053849	true
+509	Return of Frank Byron, The	/v/the-return-of-frank-byron/112064967	true
+510	Second Labor of Hercules, The	/v/the-second-labor-of-hercules/106125052	true
+511	Single Finger Salute	/v/single-finger-salute/108400396	true
+512	Subtle Thievery	/v/subtle-thievery/111758881	true
+513	Sudoku	/v/sudoku/109641602	true
+514	Waltz the Deal	/v/waltz-the-deal/111220419	true
+515	Wildfire	/v/wildfire/106782154	true
+516	A1A	/v/a1a/106817338	true
+517	Banjolero	/v/banjolero/107860456	true
+518	Boilerplate	/v/boilerplate/106876099	true
+519	Buckwheats Climb for Stef	/v/buckwheats-climb-for-stef/106817280	true
+520	Cannabis Love Generator	/v/cannabis-love-generator/108337016	true
+521	Country Boy, The	/v/the-country-boy/111822562	true
+522	Deeznuts	/v/deeznuts/108301541	true
+523	Fairweather Friend	/v/fairweather-friend/111124957	true
+524	Hippie Speed Ball	/v/hippie-speed-ball/111840375	true
+525	Jingus Khan	/v/jingus-khan/107941333	true
+526	June Bug	/v/june-bug/108337000	true
+527	Love Potion  9	/v/love-potion-9/108725080	true
+528	N4	/v/n4/108725074	true
+529	October Sky	/v/october-sky/107974272	true
+530	Severn Bore	/v/severn-bore/108394782	true
+531	Stephanie Bauer Route	/v/stephanie-bauer-route/106817310	true
+532	Swallow the Hollow	/v/swallow-the-hollow/107974280	true
+533	Turkey Crossing	/v/turkey-crossing/106817275	true
+534	Wake and Bake	/v/wake-and-bake/108337049	true
+535	Wrong Turn	/v/wrong-turn/111675898	true
+536	Yell Fire!	/v/yell-fire/107860443	true
+537	Aural Pleasure	/v/aural-pleasure/107556658	true
+538	STD	/v/std/107551914	true
+539	Tweaked Unit	/v/tweaked-unit/107304762	true
+540	Wearing out my Welcome	/v/wearing-out-my-welcome/111251556	true
+541	Welcomed Guest	/v/welcomed-guest/107556667	true
+542	Baby Blue Eyes	/v/baby-blue-eyes/106065321	true
+543	Be My Yoko Ono	/v/be-my-yoko-ono/107861392	true
+544	Bessie	/v/bessie/106065327	true
+545	Brolo El Cunado	/v/brolo-el-cunado/112562988	true
+546	Brown Eyed Girl	/v/brown-eyed-girl/106065316	true
+547	Cheaper Than a Movie	/v/cheaper-than-a-movie/106064911	true
+548	Cold Hard Bitch	/v/cold-hard-bitch/112444779	true
+549	Colt 45	/v/colt-45/110428482	true
+550	Dude Abides, The	/v/the-dude-abides/107334440	true
+551	Flying The Bird	/v/flying-the-bird/107353489	true
+552	Fresh off the Bone	/v/fresh-off-the-bone/112237173	true
+553	Good Gravy	/v/good-gravy/112219423	true
+554	Hellava Caucasian	/v/hellava-caucasian/109316505	true
+555	Hot Drama Teacher	/v/hot-drama-teacher/106065301	true
+556	I'll Take Sue	/v/ill-take-sue/107353375	true
+557	King Cobra	/v/king-cobra/110429162	true
+558	Laying Pipe under the Bridge	/v/laying-pipe-under-the-bridge/108875781	true
+559	Lets get drunk and think about it 	/v/lets-get-drunk-and-think-about-it-/111818759	true
+560	Mary Pop-Parazzi	/v/mary-pop-parazzi/110606875	true
+561	Old English	/v/old-english/108121461	true
+562	Pocahontas Path	/v/pocahontas-path/107353477	true
+563	Raindancer	/v/raindancer/106065295	true
+564	Ridin' the Short Buzz	/v/ridin-the-short-buzz/107334457	true
+565	Rinse and Repeat	/v/rinse-and-repeat/106123263	true
+566	She Might be a Liar	/v/she-might-be-a-liar/110429182	true
+567	Size Doesn't Matter	/v/size-doesnt-matter/107353391	true
+568	Spice of Life, The	/v/the-spice-of-life/107416223	true
+569	That's What She Said	/v/thats-what-she-said/107353405	true
+570	When Rats Attack	/v/when-rats-attack/106065310	true
+571	You Take Sally	/v/you-take-sally/107353365	true
+572	Belly of the Beast	/v/belly-of-the-beast/106782221	true
+573	Collision Damage	/v/collision-damage/108195152	true
+574	Jingus	/v/jingus/106783827	true
+575	Like A Turtle	/v/like-a-turtle/107180626	true
+576	Little Teapot	/v/little-teapot/106982516	true
+577	Muffintop	/v/muffintop/108397003	true
+578	Nanotechnology	/v/nanotechnology/111775561	true
+579	Spyder's Hangout	/v/spyders-hangout/108446305	true
+580	Take the Scary out of Life	/v/take-the-scary-out-of-life/107180642	true
+581	Two Women Alone	/v/two-women-alone/106782241	true
+582	Upworthy	/v/upworthy/113236994	true
+583	Better Eat Yo' Wheatleys	/v/better-eat-yo-wheatleys/107941299	true
+584	Blowin' Loadz	/v/blowin-loadz/107941279	true
+585	Brownian Motion	/v/brownian-motion/109029415	true
+586	Bush League	/v/bush-league/107941273	true
+587	Chica Loca	/v/chica-loca/107873758	true
+588	Crown of Thorns	/v/crown-of-thorns/107941261	true
+589	Deep Fried	/v/deep-fried/107941311	true
+590	Dog Bites & Fistfights	/v/dog-bites--fistfights/107941289	true
+591	Epigyne	/v/epigyne/107941316	true
+592	Fresh Baked	/v/fresh-baked/107941305	true
+593	Golden Brown	/v/golden-brown/107941265	true
+594	Medicine Man	/v/medicine-man/107941294	true
+595	Pickpocket	/v/pickpocket/108121447	true
+596	Sandy Malone	/v/sandy-malone/108121451	true
+597	Scalawagarus	/v/scalawagarus/107873743	true
+598	Smokin on Kesha	/v/smokin-on-kesha/107873752	true
+599	Tongue-punch	/v/tongue-punch/109582040	true
+600	Archangel	/v/archangel/111060429	true
+601	Beta-vul Pipeline	/v/beta-vul-pipeline/106118250	true
+602	Bloodbath	/v/bloodbath/106615717	true
+603	Crosley	/v/crosley/106945188	true
+604	Demon Seed	/v/demon-seed/109253387	true
+605	Dogleg	/v/dogleg/106290553	true
+606	Eyeball Chaw	/v/eyeball-chaw/108405570	true
+607	Flush	/v/flush/109477782	true
+608	Horn	/v/horn/106290540	true
+609	Moment of Truth	/v/moment-of-truth/107988925	true
+610	No Redemption	/v/no-redemption/108750922	true
+611	Reticent	/v/reticent/109553036	true
+612	Skinny Love	/v/skinny-love/109636763	true
+613	Tacit	/v/tacit/106290528	true
+614	Toker	/v/toker/106427242	true
+615	Tony's Happy Christmas Crack	/v/tonys-happy-christmas-crack/106712556	true
+616	Ultra-perm	/v/ultra-perm/109864674	true
+617	Velvet	/v/velvet/106104569	true
+618	Waiting for JJ	/v/waiting-for-jj/111712891	true
+619	Where's JJ?	/v/wheres-jj/111712886	true
+620	Where's the Beef?	/v/wheres-the-beef/108727772	true
+621	Arrowhead, The	/v/the-arrowhead/105869491	true
+622	Beachcomber	/v/beachcomber/105872860	true
+623	Big Money 	/v/big-money-/106373015	true
+624	Blood Money	/v/blood-money/111146059	true
+625	Brontosaurus	/v/brontosaurus/105860631	true
+626	Central Scrutinizer	/v/central-scrutinizer/105865483	true
+627	Environmental Impact	/v/environmental-impact/105860612	true
+628	High Noon	/v/high-noon/105885214	true
+629	Ju Ju	/v/ju-ju/105885386	true
+630	Physical Attraction	/v/physical-attraction/106176114	true
+631	Razorback	/v/razorback/105872786	true
+632	Reserved Seating	/v/reserved-seating/105885193	true
+633	Roaming the Halls	/v/roaming-the-halls/109460220	true
+634	Scabies	/v/scabies/105860576	true
+635	Seam, The	/v/the-seam/107618215	true
+636	Straight Edge	/v/straight-edge/105885201	true
+637	Sunburn	/v/sunburn/105886882	true
+638	Sundance	/v/sundance/105885373	true
+639	Welcome to ol' Kentuck	/v/welcome-to-ol-kentuck/106292346	true
+640	Zambezi Plunge	/v/zambezi-plunge/105891711	true
+641	Bouldering area	/v/bouldering-area/105872865	false
+642	Main Wall	/v/main-wall/105872868	false
+643	Bloody Fingers	/v/bloody-fingers/106447823	true
+644	Carnivorous	/v/carnivorous/111797776	true
+645	Casual Corner	/v/casual-corner/112023714	true
+646	Close Encounters with a Wench	/v/close-encounters-with-a-wench/111797709	true
+647	Grand Illusion	/v/grand-illusion/106447831	true
+648	Mama Told Me Not To Come	/v/mama-told-me-not-to-come/105880847	true
+649	Muscle Shoals	/v/muscle-shoals/106382718	true
+650	Punch Myself	/v/punch-myself/105880888	true
+651	Rock Rash	/v/rock-rash/106385186	true
+652	Rocket Man	/v/rocket-man/105880881	true
+653	Surfin' With Grizz	/v/surfin-with-grizz/105880865	true
+654	When Gravity Fails	/v/when-gravity-fails/105880857	true
+655	Woman Trouble	/v/woman-trouble/108434200	true
+656	Dark Lord	/v/dark-lord/106730222	true
+657	Forever Yellow Skies	/v/forever-yellow-skies/106730216	true
+658	Jerk, The	/v/the-jerk/106840270	true
+659	Minas Ithil	/v/minas-ithil/106730242	true
+660	Perfectly Normal Beast	/v/perfectly-normal-beast/106837597	true
+661	Positive Energy	/v/positive-energy/106837589	true
+662	Animal Crackers Wall	/v/animal-crackers-wall/107124307	false
+663	Arsenal, The	/v/the-arsenal/106862479	false
+664	Bibliothek	/v/bibliothek/106937686	false
+665	Boneyard, The	/v/the-boneyard/106603087	false
+666	Bowling Alley, The	/v/the-bowling-alley/106447762	false
+667	Bruise Brothers Wall	/v/bruise-brothers-wall/106061898	false
+668	Coyote Cliff	/v/coyote-cliff/107131358	false
+669	Fire Wall, The	/v/the-fire-wall/107203542	false
+670	Front Porch Wall	/v/front-porch-wall/113540706	false
+671	Great Arch, The	/v/great-arch-the/106773949	false
+672	Great Wall, The	/v/the-great-wall/106580245	false
+673	Guide Wall	/v/guide-wall/107204410	false
+674	Hideout, The	/v/the-hideout/106463618	false
+675	Indy Wall	/v/indy-wall/106123650	false
+676	Inner Sanctum	/v/inner-sanctum/106128954	false
+677	Ivory Tower	/v/ivory-tower/111757286	false
+678	Johnny's Wall	/v/johnnys-wall/106272456	false
+679	Land Before Time Wall	/v/land-before-time-wall/106962289	false
+680	Midnight Surf	/v/midnight-surf/106586312	false
+681	Persepolis	/v/persepolis/106603140	false
+682	Practice Wall	/v/practice-wall/106767074	false
+683	Recess Rock	/v/recess-rock/113514576	false
+684	Sanctuary, The	/v/the-sanctuary/106128414	false
+685	Shawnee Shelter	/v/shawnee-shelter/107860416	false
+686	Slab City	/v/slab-city/106773966	false
+687	Solarium, The	/v/the-solarium/105948269	false
+688	South Side	/v/south-side/111104328	false
+689	Stadium, The	/v/the-stadium/106059208	false
+690	Stronghold, The	/v/the-stronghold/111757270	false
+691	Sunbeam Buttress	/v/sunbeam-buttress/106915626	false
+692	Sunnyside	/v/sunnyside/106061912	false
+693	Tectonic Wall	/v/tectonic-wall/106065458	false
+694	Washboard Wall	/v/washboard-wall/106417255	false
+695	Barenjager	/v/barenjager/107841212	true
+696	Brushfire Fairytales	/v/brushfire-fairytales/106577860	true
+697	Cordillera Rojo	/v/cordillera-rojo/107841202	true
+698	Heard It On NPR	/v/heard-it-on-npr/107123636	true
+699	Sierra's Travels	/v/sierras-travels/111712932	true
+700	Spider Crux	/v/spider-crux/111712924	true
+701	Tradmill	/v/tradmill/106417258	true
+702	Ball and Chain	/v/ball-and-chain/113600344	true
+703	Continental Drift	/v/continental-drift/108087253	true
+704	Cottonmouth (a.k.a. Boom-Slang)	/v/cottonmouth-aka-boom-slang/111223306	true
+705	Dime a Dozen	/v/dime-a-dozen/111170638	true
+706	Fifth Bolt Faith	/v/fifth-bolt-faith/106170048	true
+707	Gettin' Lucky in Kentucky	/v/gettin-lucky-in-kentucky/106065461	true
+708	Paraplegic Power	/v/paraplegic-power/110252082	true
+709	Plate Tectonics	/v/plate-tectonics/106065471	true
+710	Serpentine	/v/serpentine/110458752	true
+711	Tall Cool One	/v/tall-cool-one/106189887	true
+712	Baccaus Goes Climbing	/v/baccaus-goes-climbing/106712489	true
+713	BLM	/v/blm/113518464	true
+714	Continental	/v/continental/107374670	true
+715	Dingo the Gringo	/v/dingo-the-gringo/107131436	true
+716	Enganche	/v/enganche/109694699	true
+717	Fear or Common Sense	/v/fear-or-common-sense/106061915	true
+718	Jacob's Ladder	/v/jacobs-ladder/108688311	true
+719	Kokopeli's Dream	/v/kokopelis-dream/106574064	true
+720	Machete	/v/machete/106599147	true
+721	Mini Me	/v/mini-me/111745502	true
+722	Some Humans Ain't Human	/v/some-humans-aint-human/107131450	true
+723	Suppress the Rage	/v/suppress-the-rage/106574070	true
+724	Velvet Revolution	/v/velvet-revolution/107152673	true
+725	Velveteen	/v/velveteen/108175651	true
+726	Virgin Bolter Tag Team	/v/virgin-bolter-tag-team/106599140	true
+727	Weed Eater	/v/weed-eater/106937596	true
+728	Backstabber	/v/backstabber/107855134	true
+729	Moonshine	/v/moonshine/106915629	true
+730	Morning Sun	/v/morning-sun/108061908	true
+731	Out of the Dark	/v/out-of-the-dark/107506355	true
+732	Predator	/v/predator/106928325	true
+733	Prey	/v/prey/108061921	true
+734	Radical Evolution	/v/radical-evolution/107885107	true
+735	Revenge of the Sith	/v/revenge-of-the-sith/108360900	true
+736	Stems and Seeds	/v/stems-and-seeds/108885373	true
+737	Sunbeam	/v/sunbeam/106915637	true
+738	Universal Gravitation	/v/universal-gravitation/108144702	true
+739	Where's My Chisel	/v/wheres-my-chisel/107855115	true
+740	Geronimo 	/v/geronimo-/112321865	true
+741	Rock the Casbah	/v/rock-the-casbah/112321880	true
+742	Areterection	/v/areterection/106065258	true
+743	Ascentuality	/v/ascentuality/106059353	true
+744	Augenblick	/v/augenblick/106059358	true
+745	Cheetah	/v/cheetah/106575806	true
+746	ED	/v/ed/106065125	true
+747	Indecision	/v/indecision/107132444	true
+748	Kentucky Waterfall	/v/kentucky-waterfall/107624314	true
+749	Melancholy Mechanics	/v/melancholy-mechanics/106059221	true
+750	No Bones About It	/v/no-bones-about-it/106059211	true
+751	Scrumbulglazer	/v/scrumbulglazer/106059217	true
+752	Tradisfaction	/v/tradisfaction/106065691	true
+753	Treetop Terror	/v/treetop-terror/106065250	true
+754	Tug-O-War	/v/tug-o-war/106065237	true
+755	Walk the Line	/v/walk-the-line/107132457	true
+756	Bouldergeist	/v/bouldergeist/111756100	true
+757	Abiyoyo	/v/abiyoyo/106978712	true
+758	Air Ride Equipped	/v/air-ride-equipped/106586504	true
+759	Banshee	/v/banshee/106333612	true
+760	Bundle of Joy	/v/bundle-of-joy/109553099	true
+761	Delicatessen	/v/delicatessen/108867060	true
+762	Galunlati	/v/galunlati/106333606	true
+763	Magnum Opus	/v/magnum-opus/107250844	true
+764	Manifest Destiny	/v/manifest-destiny/106316623	true
+765	Mirage	/v/mirage/107331394	true
+766	Project	/v/project/112574093	true
+767	So Long Mr. Petey	/v/so-long-mr-petey/108434413	true
+768	Summer Sunshine	/v/summer-sunshine/107387111	true
+769	Super Best Friends	/v/super-best-friends/106852348	true
+770	Urban Voodoo	/v/urban-voodoo/109553082	true
+771	Go West	/v/go-west/106817493	true
+772	Return to Balance	/v/return-to-balance/106773969	true
+773	Sacred Stones	/v/sacred-stones/107250825	true
+774	Strip the Willows	/v/strip-the-willows/107250830	true
+775	Thrillbillies	/v/thrillbillies/107250835	true
+776	Noo-Tha	/v/noo-tha/108548047	true
+777	Tecumseh's Curse	/v/tecumsehs-curse/107860419	true
+778	Waterfall Ballet	/v/waterfall-ballet/107860429	true
+779	Atlas Shrugged	/v/atlas-shrugged/110726339	true
+780	Blue Collar	/v/blue-collar/107360960	true
+781	Budda Slept	/v/budda-slept/107239466	true
+782	Cruxifixion	/v/cruxifixion/106603960	true
+783	Dirty Old Men	/v/dirty-old-men/107360940	true
+784	First Fall	/v/first-fall/106128420	true
+785	Hoosier Boys	/v/hoosier-boys/106235349	true
+786	Immaculate Deception	/v/immaculate-deception/106255347	true
+787	Jesus Wept	/v/jesus-wept/106333601	true
+788	Name Dropper	/v/name-dropper/108092260	true
+789	Peace Frog	/v/peace-frog/106602941	true
+790	Prometheus Unbound	/v/prometheus-unbound/106575798	true
+791	Triple Sec aka Fifty Bucks	/v/triple-sec-aka-fifty-bucks/106193281	true
+792	Child's Play	/v/childs-play/113514587	true
+793	School of Rock	/v/school-of-rock/113514753	true
+794	T's Knobs	/v/ts-knobs/113514692	true
+795	Who Pooped the Playground	/v/who-pooped-the-playground/113514800	true
+796	A Happy Ending	/v/a-happy-ending/111712962	true
+797	Acrophobiacs Anonymous	/v/acrophobiacs-anonymous/106792383	true
+798	Ai Bang Mai Fa Kin Ni	/v/ai-bang-mai-fa-kin-ni/106793328	true
+799	Another One Fights the Rust	/v/another-one-fights-the-rust/111712953	true
+800	BDSM	/v/bdsm/108319711	true
+801	Beta Spewer	/v/beta-spewer/106792065	true
+802	Creeping Elegance	/v/creeping-elegance/107239404	true
+803	Crescendo	/v/crescendo/107121352	true
+804	Crescent Moon	/v/crescent-moon/106969859	true
+805	Dragon's Mouth	/v/dragons-mouth/107640368	true
+806	Dragon's Tail	/v/dragons-tail/107121323	true
+807	Handout, The	/v/the-handout/107297174	true
+808	Kate's 1st Trad Lead	/v/kates-1st-trad-lead/106792394	true
+809	Low Exposure	/v/low-exposure/106792402	true
+810	Mercenary of the Mandarin Chicken	/v/mercenary-of-the-mandarin-chicken/106793339	true
+811	Night Foxx	/v/night-foxx/107239443	true
+812	Shawty	/v/shawty/106793348	true
+813	Sheet Rock	/v/sheet-rock/107239454	true
+814	Short and Sweet	/v/short-and-sweet/106767080	true
+815	Slabalito	/v/slabalito/106793304	true
+816	Slither and Squeeze	/v/slither-and-squeeze/106792369	true
+817	Smear Tactics	/v/smear-tactics/107239431	true
+818	Sweet and Sour	/v/sweet-and-sour/106817486	true
+819	Yu Stin Ki Pu	/v/yu-stin-ki-pu/106793318	true
+820	Zendebad	/v/zendebad/106603146	true
+821	A Farewell to Arms	/v/a-farewell-to-arms/111219814	true
+822	Babyface	/v/babyface/108192516	true
+823	Cell Block Six	/v/cell-block-six/106586323	true
+824	Crucible, The	/v/the-crucible/107379996	true
+825	Iniquity	/v/iniquity/106586316	true
+826	Mellow Yellow	/v/mellow-yellow/107239389	true
+827	Shiva	/v/shiva/111204592	true
+828	Tapeworm	/v/tapeworm/106603013	true
+829	Tree Hugger	/v/tree-hugger/110933299	true
+830	Vortex	/v/vortex/111716896	true
+831	Basilisk	/v/basilisk/106973554	true
+832	Coprolite	/v/coprolite/106973561	true
+833	Neanderfall	/v/neanderfall/106968665	true
+834	Prehistoric Extermination	/v/prehistoric-extermination/106968591	true
+835	Ryanosaurus	/v/ryanosaurus/106968604	true
+836	Sabertooth	/v/sabertooth/107239363	true
+837	Unhappy Feet	/v/unhappy-feet/107699042	true
+838	Watering Hole	/v/watering-hole/107321623	true
+839	2 Chicken Butts	/v/2-chicken-butts/106272501	true
+840	59" DrillBitch	/v/59-drillbitch/106614611	true
+841	Bethel	/v/bethel/106614620	true
+842	Brain Stem	/v/brain-stem/106598508	true
+843	Burning Bush	/v/burning-bush/106783054	true
+844	Climbing with Crowbars	/v/climbing-with-crowbars/106598499	true
+845	Mancala	/v/mancala/106921324	true
+846	Spinner	/v/spinner/106614626	true
+847	Thanks Holly	/v/thanks-holly/106272484	true
+848	Stallion , The	/v/the-stallion-/111809791	true
+849	Bad Company	/v/bad-company/106128972	true
+850	Consenting Adult	/v/consenting-adult/111598105	true
+851	Cosmic Trigger	/v/cosmic-trigger/106603157	true
+852	Karmic Retribution	/v/karmic-retribution/106286405	true
+853	Naughty Neighbors	/v/naughty-neighbors/106128957	true
+854	Netizen Hacktivist	/v/netizen-hacktivist/106579695	true
+855	Psyberpunk	/v/psyberpunk/106915706	true
+856	Quaquaversal Crack	/v/quaquaversal-crack/108687127	true
+857	Annie the Annihilator	/v/annie-the-annihilator/106128246	true
+858	Face Up to That Arete	/v/face-up-to-that-arete/107807510	true
+859	Happy Fisherman, The	/v/the-happy-fisherman/106421904	true
+860	Makin' Bacon	/v/makin-bacon/106128257	true
+861	Mentor Powers	/v/mentor-powers/106193276	true
+862	Mid-Life Crisis	/v/mid-life-crisis/106441777	true
+863	Muir the Merrier, The	/v/the-muir-the-merrier/106255358	true
+864	Owgli Mowgli	/v/owgli-mowgli/111316758	true
+865	Parasite	/v/parasite/107238465	true
+866	Posse Whipped	/v/posse-whipped/107238445	true
+867	Social Stigma	/v/social-stigma/107238454	true
+868	Stretcherous	/v/stretcherous/106123658	true
+869	Tight Lipped	/v/tight-lipped/111785521	true
+870	All Mixed Up	/v/all-mixed-up/107219559	true
+871	Apotheosis Denied	/v/apotheosis-denied/107225708	true
+872	Beware the Bear	/v/beware-the-bear/106789884	true
+873	Boltergeist	/v/boltergeist/106580228	true
+874	Born Again Christian	/v/born-again-christian/112522371	true
+875	Bourbon and Bluegrass	/v/bourbon-and-bluegrass/108362793	true
+876	Bushwhacked	/v/bushwhacked/108362895	true
+877	Call of the Wild	/v/call-of-the-wild/107640216	true
+878	Cruisin' for a Bruisin'	/v/cruisin-for-a-bruisin/106937607	true
+879	Dance of the Druids	/v/dance-of-the-druids/107255588	true
+880	Earthsurfer	/v/earthsurfer/106956734	true
+881	Hoot and Holler	/v/hoot-and-holler/112811468	true
+882	International Route of Pancakes	/v/international-route-of-pancakes/106580234	true
+883	Mantle Peace	/v/mantle-peace/110978947	true
+884	Moots Madness	/v/moots-madness/106937614	true
+885	Old School	/v/old-school/111713375	true
+886	Pre-emptive Strike	/v/pre-emptive-strike/106463621	true
+887	Shock and Awe	/v/shock-and-awe/106789874	true
+888	Special K	/v/special-k/106962278	true
+889	Archeologist, The	/v/the-archeologist/107204428	true
+890	Built for Life	/v/built-for-life/107205256	true
+891	Fear of Commitment	/v/fear-of-commitment/107204424	true
+892	Irish Mud	/v/irish-mud/107204420	true
+893	Mona Lisa Crack	/v/mona-lisa-crack/107205260	true
+894	Parks and Rec	/v/parks-and-rec/107204414	true
+895	Bitter Ray of Sunshine	/v/bitter-ray-of-sunshine/106451181	true
+896	Buccaneer	/v/buccaneer/107204398	true
+897	Dynabolt Gold	/v/dynabolt-gold/106422472	true
+898	Edge-a-Sketch	/v/edge-a-sketch/106657106	true
+899	Glory and Consequence	/v/glory-and-consequence/106580249	true
+900	La Escalada	/v/la-escalada/106580266	true
+901	Ledgends of Limonite	/v/ledgends-of-limonite/106580254	true
+902	Ledgends of Limonite (direct start)	/v/ledgends-of-limonite-direct-start/106944299	true
+903	Little T-Bone	/v/little-t-bone/106915658	true
+904	Momma Cindy	/v/momma-cindy/106915673	true
+905	Ohio Arts	/v/ohio-arts/107204390	true
+906	Touch of Grey	/v/touch-of-grey/106451192	true
+907	Weapons of Mass Deception	/v/weapons-of-mass-deception/106915646	true
+908	Battery Life	/v/battery-life/107131332	true
+909	Beef Stick	/v/beef-stick/107204361	true
+910	Black Powder	/v/black-powder/107143575	true
+911	Double Stuff	/v/double-stuff/107204346	true
+912	Dyn-O-Mite	/v/dyn-o-mite/106773955	true
+913	Ear Drops	/v/ear-drops/106799739	true
+914	Hunt For Red's October, The	/v/the-hunt-for-reds-october/110879684	true
+915	Lip Service	/v/lip-service/106935993	true
+916	Night Moves	/v/night-moves/107143145	true
+917	Dripity Dew Da	/v/dripity-dew-da/113540740	true
+918	Grandma's Rocker	/v/grandmas-rocker/113540711	true
+919	Porch Potato	/v/porch-potato/113540730	true
+920	Driller Instinct	/v/driller-instinct/107203545	true
+921	Firestarter	/v/firestarter/107203553	true
+922	Oddballs	/v/oddballs/107203560	true
+923	Bombardier	/v/bombardier/107203502	true
+924	Buddhalicious	/v/buddhalicious/107203525	true
+925	Golden Box	/v/golden-box/107333907	true
+926	Golden Road	/v/golden-road/107203531	true
+927	Manteleer	/v/manteleer/107203510	true
+928	Mum Mum	/v/mum-mum/107203517	true
+929	Renegade	/v/renegade/108339057	true
+930	Retirement Day	/v/retirement-day/108885357	true
+931	Thunderclinger	/v/thunderclinger/107131365	true
+932	Trundling Trolls	/v/trundling-trolls/107203497	true
+933	A-Beano	/v/a-beano/106085035	true
+934	Bee's Business	/v/bees-business/107116591	true
+935	CH4	/v/ch4/106130307	true
+936	Critters on the Cliff	/v/critters-on-the-cliff/106061920	true
+937	Dirt In Eye	/v/dirt-in-eye/112222138	true
+938	Don't Take Yer Guns to Town	/v/dont-take-yer-guns-to-town/106579371	true
+939	Flutterby Blue	/v/flutterby-blue/106712455	true
+940	Get on the Good Foot	/v/get-on-the-good-foot/106130298	true
+941	Hey There Fancy Pants	/v/hey-there-fancy-pants/106064500	true
+942	Immodium AD	/v/immodium-ad/106579384	true
+943	Jungle Trundler	/v/jungle-trundler/106129989	true
+944	Little Viper	/v/little-viper/106065268	true
+945	Offering, The	/v/the-offering/106085047	true
+946	Ohio Climbing	/v/ohio-climbing/108524421	true
+947	P. Heist Rockway to Heaven, The	/v/the-p-heist-rockway-to-heaven/106861600	true
+948	Pine Needle Shuffle 	/v/pine-needle-shuffle-/112222167	true
+949	Put the Best Foot Forward	/v/put-the-best-foot-forward/106085039	true
+950	Rat Stew	/v/rat-stew/106061906	true
+951	Redeye Brew	/v/redeye-brew/106432960	true
+952	Redriveroutdoors.com	/v/redriveroutdoorscom/106727830	true
+953	Return of Manimal	/v/return-of-manimal/106061901	true
+954	Rising	/v/rising/106302099	true
+955	Send Me on My Way	/v/send-me-on-my-way/106085043	true
+956	Stay Off the Radio Jeff!	/v/stay-off-the-radio-jeff/107596000	true
+957	Sweet Jane	/v/sweet-jane/106286280	true
+958	Tomthievery (aka The Sultan Returns)	/v/tomthievery-aka-the-sultan-returns/106600925	true
+959	Trundling Kentucky	/v/trundling-kentucky/107537571	true
+960	Workin' For The Weekend	/v/workin-for-the-weekend/106130303	true
+961	Expresso	/v/expresso/107203392	true
+962	Imminent Demise	/v/imminent-demise/106447766	true
+963	King Pin	/v/king-pin/107203385	true
+964	Steel Reserve	/v/steel-reserve/107203377	true
+965	Abby Gabby Goo	/v/abby-gabby-goo/107203314	true
+966	Armed Insurrection	/v/armed-insurrection/106937663	true
+967	Bangers and Mash	/v/bangers-and-mash/107203346	true
+968	Captain Blonde Sinks The Ship	/v/captain-blonde-sinks-the-ship/106603108	true
+969	Cindarella	/v/cindarella/106937656	true
+970	First Fast Draw, The	/v/the-first-fast-draw/107203275	true
+971	Flavor of the Week: McMoose Knuckle	/v/flavor-of-the-week-mcmoose-knuckle/110973084	true
+972	Flying Serpents	/v/flying-serpents/107203325	true
+973	Glide	/v/glide/107123653	true
+974	Gym Jones Approved	/v/gym-jones-approved/106930714	true
+975	Haggis, Neeps and Taties	/v/haggis-neeps-and-taties/107203363	true
+976	Hematopoiesis	/v/hematopoiesis/113628311	true
+977	Hijacked Project	/v/hijacked-project/106930963	true
+978	Hoosierheights.com	/v/hoosierheightscom/107203246	true
+979	Last Slow Draw, The	/v/the-last-slow-draw/107203262	true
+980	Lucy Goosey	/v/lucy-goosey/107203231	true
+981	Lula Mae	/v/lula-mae/107203308	true
+982	Oink! Oink!	/v/oink-oink/107203285	true
+983	One-Armed Bandit	/v/one-armed-bandit/106937674	true
+984	Renegade	/v/renegade/108612757	true
+985	Son of a Wanted Man	/v/son-of-a-wanted-man/106930952	true
+986	Stealing Melinda	/v/stealing-melinda/107203301	true
+987	Surfing the Whale's Back	/v/surfing-the-whales-back/107203293	true
+988	Sweet Tater	/v/sweet-tater/107203355	true
+989	Tanduay Time	/v/tanduay-time/107203331	true
+990	Tao Bato	/v/tao-bato/107203340	true
+991	Trouble in Paradise	/v/trouble-in-paradise/111170609	true
+992	Unknown Road	/v/unknown-road/109609246	true
+993	Warrior's Path, The	/v/the-warriors-path/112780131	true
+994	Winona	/v/winona/108387039	true
+995	100 Years of Solitude	/v/100-years-of-solitude/106937689	true
+996	A Portrait of the Artist as a Young Man	/v/a-portrait-of-the-artist-as-a-young-man/106949444	true
+997	A Prayer for Owen Meany	/v/a-prayer-for-owen-meany/109914935	true
+998	All The Pretty Horses	/v/all-the-pretty-horses/107073669	true
+999	Everything That Rises Must Converge	/v/everything-that-rises-must-converge/107073613	true
+1000	Fury, The	/v/the-fury/108952238	true
+1001	Giver, The	/v/the-giver/113131538	true
+1002	Lolita	/v/lolita/112148053	true
+1003	Love Song of J. Alfred Prufrock, The	/v/the-love-song-of-j-alfred-prufrock/107073698	true
+1004	No Country for Old Men	/v/no-country-for-old-men/107073684	true
+1005	Resuscitation of a Hanged Man	/v/resuscitation-of-a-hanged-man/107073651	true
+1006	Short, Happy Life of Francis Macomber, The	/v/the-short-happy-life-of-francis-macomber/106937694	true
+1007	Stranger, The	/v/the-stranger/107073601	true
+1008	Tea at the Palaz of Hoon	/v/tea-at-the-palaz-of-hoon/107073717	true
+1009	Unbearable Lightness of Being, The	/v/the-unbearable-lightness-of-being/106937702	true
+1010	Who Pooped in the Park?	/v/who-pooped-in-the-park/107073580	true
+1011	Bathtub Mary	/v/bathtub-mary/106862482	true
+1012	Bullfighter	/v/bullfighter/107060475	true
+1013	Chicken Little Loves Abubu	/v/chicken-little-loves-abubu/107203006	true
+1014	Flesh Wound	/v/flesh-wound/107374324	true
+1015	Freakn'Deacon	/v/freakndeacon/111597112	true
+1016	Picador	/v/picador/107156609	true
+1017	Quicksilver	/v/quicksilver/111596341	true
+1018	Reload	/v/reload/107156644	true
+1019	Sacriledge	/v/sacriledge/106937622	true
+1020	24 Hour Bug	/v/24-hour-bug/107124350	true
+1021	Casey	/v/casey/107124345	true
+1022	Harvey	/v/harvey/107124339	true
+1023	Much Ado About Nothing	/v/much-ado-about-nothing/107124355	true
+1024	Panda Bear	/v/panda-bear/107124319	true
+1025	Rikki Tikki Tavi	/v/rikki-tikki-tavi/107124313	true
+1026	Sam	/v/sam/107124331	true
+1027	South Central	/v/south-central/106385159	true
+1028	South Side of the Sky	/v/south-side-of-the-sky/106385146	true
+1029	Distillery	/v/distillery/112073349	true
+1030	Oberon	/v/oberon/108168983	true
+1031	Texas Eagle	/v/texas-eagle/111332529	true
+1032	Very Disco	/v/very-disco/111484859	true
+1033	Minas Tirith	/v/minas-tirith/105854080	true
+1034	Alcatraz	/v/alcatraz/112279233	false
+1035	Chaos	/v/chaos/110334929	false
+1036	Cloud 9	/v/cloud-9/111355458	false
+1037	Coopers Cove	/v/coopers-cove/111088651	false
+1038	Corner Pocket	/v/corner-pocket/111839725	false
+1039	Deep End	/v/deep-end/110845463	false
+1040	Fruit Wall	/v/fruit-wall/110356275	false
+1041	Graveyard	/v/graveyard/111311117	false
+1042	Hal Garner Memorial Crag, The	/v/the-hal-garner-memorial-crag/113605584	false
+1043	Infirmary, The	/v/the-infirmary/110231493	false
+1044	Laboratory, The	/v/the-laboratory/111855422	false
+1045	Monastery	/v/monastery/110429994	false
+1046	Morgue, The	/v/the-morgue/111039393	false
+1047	Nursery, The	/v/the-nursery/110529899	false
+1048	Pharmacy, The	/v/the-pharmacy/111842364	false
+1049	Portal, The	/v/the-portal/110969155	false
+1050	Real Deep End	/v/real-deep-end/111998013	false
+1051	Record Shop, The	/v/the-record-shop/110620438	false
+1052	Sanitarium	/v/sanitarium/112420131	false
+1053	Secret Garden	/v/secret-garden/110335833	false
+1054	Serenity Point	/v/serenity-point/110356259	false
+1055	BCL	/v/bcl/112886782	true
+1056	Dancing Queen	/v/dancing-queen/110367173	true
+1057	Dirty Habit	/v/dirty-habit/110356284	true
+1058	Fodiqua	/v/fodiqua/111085196	true
+1059	Hammer Time	/v/hammer-time/110356289	true
+1060	Linny Lu	/v/linny-lu/110367190	true
+1061	Malignant	/v/malignant/110367048	true
+1062	Return of the Mohan	/v/return-of-the-mohan/110356296	true
+1063	Rising Hegemon	/v/rising-hegemon/110356301	true
+1064	Sundial	/v/sundial/111688212	true
+1065	ae911truth.org	/v/ae911truthorg/111042582	true
+1066	Bees in the Trap	/v/bees-in-the-trap/110529445	true
+1067	Cock to the Rock	/v/cock-to-the-rock/111042603	true
+1068	Controlled Demolition	/v/controlled-demolition/111839686	true
+1069	Flashback	/v/flashback/110429220	true
+1070	Fuzzy Side Up	/v/fuzzy-side-up/110529183	true
+1071	Gettin Woolly	/v/gettin-woolly/110529844	true
+1072	Going Away Party	/v/goingawayparty/112222782	true
+1073	Guns n' Beer	/v/guns-n-beer/111839678	true
+1074	Heavy Flow	/v/heavy-flow/110429202	true
+1075	Hippie Lip Balm	/v/hippie-lip-balm/110529330	true
+1076	Leech Line	/v/leech-line/110529391	true
+1077	Linear Regression	/v/linear-regression/111085112	true
+1078	Little T	/v/little-t/111085166	true
+1079	Little Wing	/v/little-wing/110335844	true
+1080	Nachos, Lemonheads, My Dad's Boat	/v/nachos-lemonheads-my-dads-boat/111166584	true
+1081	Nilbog Night Life	/v/nilbog-night-life/111085156	true
+1082	patriotsqu estion911.com	/v/patriotsquestion911com/113551532	true
+1083	Red Devil	/v/red-devil/111085138	true
+1084	Rememberbu ilding7.org	/v/rememberbuilding7org/111085182	true
+1085	Rethink911.org	/v/rethink911org/111085175	true
+1086	Sloppy Seconds	/v/sloppy-seconds/110529834	true
+1087	So What?	/v/so-what/111042616	true
+1088	Spork	/v/spork/110529796	true
+1089	Stinky Johnny's	/v/stinky-johnnys/111680983	true
+1090	Tinkerbell's Panties	/v/tinkerbells-panties/110529777	true
+1091	You Can't Piss on Hospitality	/v/you-cant-piss-on-hospitality/111085092	true
+1092	Urushiol	/v/urushiol/112420158	true
+1093	Appetite for Destruction	/v/appetite-for-destruction/110845426	true
+1094	Bangerz	/v/bangerz/110620464	true
+1095	Bitches Brew	/v/bitches-brew/110620484	true
+1096	Born in the USA	/v/born-in-the-usa/111024772	true
+1097	Call Me Maybe	/v/call-me-maybe/110620474	true
+1098	Cowboys From Hell	/v/cowboys-from-hell/111027061	true
+1099	Fly By Night	/v/fly-by-night/111026945	true
+1100	Harmony in Ultraviolet	/v/harmony-in-ultraviolet/112316547	true
+1101	Hitch a Ride	/v/hitch-a-ride/112268685	true
+1102	Pet Sounds	/v/pet-sounds/110620444	true
+1103	TNT	/v/tnt/111857139	true
+1104	Whiskey Bent and Hell Bound	/v/whiskey-bent-and-hell-bound/111024632	true
+1105	Alpha Dog	/v/alpha-dog/111998031	true
+1106	Castaway	/v/castaway/111998022	true
+1107	Omega Crack	/v/omega-crack/111998079	true
+1108	Plate for the Party	/v/plate-for-the-party/111998037	true
+1109	Poop Chute	/v/poop-chute/111998042	true
+1110	Red Means Go	/v/red-means-go/112293379	true
+1111	Tenoshitlan	/v/tenoshitlan/112293354	true
+1112	Turd Burglar	/v/turd-burglar/111998049	true
+1113	Valsalva Maneuver	/v/valsalva-maneuver/113409609	true
+1114	8133	/v/8133/110969237	true
+1115	Barefoot Barrista	/v/barefoot-barrista/112311088	true
+1116	Lights Out	/v/lights-out/112093374	true
+1117	Singularity	/v/singularity/111169571	true
+1118	Tesseract	/v/tesseract/110969192	true
+1119	Time Wrinkle	/v/time-wrinkle/112311069	true
+1120	Zero Gravity	/v/zero-gravity/112065984	true
+1121	Chasing Butterflies	/v/chasing-butterflies/111842368	true
+1122	Art of Turd Polishing, The	/v/the-art-of-turd-polishing/110806725	true
+1123	Baby Steps	/v/baby-steps/113319249	true
+1124	Beaver Patrol	/v/beaver-patrol/110529925	true
+1125	End of State Maintenance	/v/end-of-state-maintenance/110534032	true
+1126	Fuzzy Muffin	/v/fuzzy-muffin/112869753	true
+1127	Hazy Dazy	/v/hazy-dazy/112869718	true
+1128	Hot Wet Noodles	/v/hot-wet-noodles/111426401	true
+1129	Kate's Way	/v/kates-way/111799270	true
+1130	Kentucky Two Step	/v/kentucky-two-step/111799279	true
+1131	Lesser of Two Evils , The	/v/the-lesser-of-two-evils-/112420134	true
+1132	Master of Puppets	/v/master-of-puppets/110534067	true
+1133	Nursery Route 1 (closed)	/v/nursery-route-1-closed/110534062	true
+1134	Pixadoodle	/v/pixadoodle/112869735	true
+1135	Solomon Grundy	/v/solomon-grundy/110806711	true
+1136	Southern Satisfaction	/v/southern-satisfaction/111774361	true
+1137	Stick in the Eye	/v/stick-in-the-eye/110534057	true
+1138	Bone Machine	/v/bone-machine/111857310	true
+1139	Coroner (a.k.a. Rachel's Project)	/v/coroner-aka-rachels-project/111310990	true
+1140	Death Certificate	/v/death-certificate/111310997	true
+1141	Incinerator, The	/v/the-incinerator/111323215	true
+1142	Scalpel	/v/scalpel/111857208	true
+1143	Toxicology Report	/v/toxicology-report/111857291	true
+1144	Y-Incision	/v/y-incision/111857273	true
+1145	Arete Syndrome	/v/arete-syndrome/113172005	true
+1146	Barking Dogmas	/v/barking-dogmas/110430004	true
+1147	Expiation	/v/expiation/113208210	true
+1148	Heretic, The	/v/the-heretic/113208266	true
+1149	Lounge Lizard	/v/lounge-lizard/110522743	true
+1150	Monk in the Middle	/v/monk-in-the-middle/113171966	true
+1151	Monks Brew	/v/monks-brew/110521185	true
+1152	Pickled Pig's Feet	/v/pickled-pigs-feet/110523763	true
+1153	SNUG	/v/snug/112222419	true
+1154	Suffering, The	/v/the-suffering/110430032	true
+1155	Thelonius	/v/thelonius/113172049	true
+1156	Twist your Hip and do the Dip	/v/twist-your-hip-and-do-the-dip/110523611	true
+1157	Weird Science	/v/weird-science/111855430	true
+1158	Western Blot	/v/western-blot/112295917	true
+1159	Aquagenic Urticaria	/v/aquagenic-urticaria/110400283	true
+1160	Beta Blocker	/v/beta-blocker/111790230	true
+1161	Bipolar	/v/bipolar/112207234	true
+1162	Brachial Plexus	/v/brachial-plexus/111170541	true
+1163	Ebola	/v/ebola/111311280	true
+1164	Family History	/v/family-history/111228846	true
+1165	Foaming at the Mouth	/v/foaming-at-the-mouth/112168166	true
+1166	Hyperbaric Chamber	/v/hyperbaric-chamber/112776755	true
+1167	L.A. Branch Office	/v/la-branch-office/112410569	true
+1168	Last Rites	/v/last-rites/111311288	true
+1169	Magic Bed	/v/magic-bed/110231621	true
+1170	On Bended Knee	/v/on-bended-knee/112819003	true
+1171	Pandemic	/v/pandemic/111366282	true
+1172	Phantom Pain	/v/phantom-pain/110231668	true
+1173	Plague Doctor	/v/plague-doctor/111790210	true
+1174	Plasma Spill	/v/plasma-spill/112777040	true
+1175	Platelet Rich Injection	/v/platelet-rich-injection/112152645	true
+1176	Porphyria	/v/porphyria/110400270	true
+1177	Pre-Op	/v/pre-op/111229056	true
+1178	Push Present	/v/push-present/111324974	true
+1179	ReCooperAte	/v/recooperate/110231574	true
+1180	Recovery Room	/v/recovery-room/110400293	true
+1181	Sacbrood Virus	/v/sacbrood-virus/112093413	true
+1182	Temperature Rising	/v/temperature-rising/113090203	true
+1183	Trephination	/v/trephination/111311299	true
+1184	Typhoid Mary	/v/typhoid-mary/111229014	true
+1185	Wheelchair Access	/v/wheelchair-access/112032674	true
+1186	Zoonotic	/v/zoonotic/111228967	true
+1187	Halphabet Soup for the Soul	/v/halphabet-soup-for-the-soul/113605680	true
+1188	Unknown	/v/unknown/113605800	true
+1189	Altered State	/v/altered-state/111554737	true
+1190	Dead on Arrival	/v/dead-on-arrival/111311131	true
+1191	Grim Reaper	/v/grim-reaper/111311121	true
+1192	Banana Hammock	/v/banana-hammock/110397693	true
+1193	Banana Split	/v/banana-split/112065956	true
+1194	Breakfast at Koops	/v/breakfast-at-koops/110969006	true
+1195	Disco Strangler	/v/disco-strangler/112223613	true
+1196	Drosophila 	/v/drosophila-/110889573	true
+1197	Fruit by the Foot	/v/fruit-by-the-foot/111125297	true
+1198	Fruit of My Loins	/v/fruit-of-my-loins/112296276	true
+1199	Fruit of the Loin	/v/fruit-of-the-loin/111157133	true
+1200	Hourglass Crack	/v/hourglass-crack/112812121	true
+1201	J's on My Feet	/v/js-on-my-feet/111014632	true
+1202	Jew Jew Fruit	/v/jew-jew-fruit/110889566	true
+1203	Just Peachy Mon	/v/just-peachy-mon/110522765	true
+1204	Lichen Lessons	/v/lichen-lessons/111156968	true
+1205	Mellon Baller	/v/mellon-baller/110523573	true
+1206	Mojo Bro Tank Bar Crawl	/v/mojo-bro-tank-bar-crawl/111014640	true
+1207	Peach Fuzz	/v/peach-fuzz/110968902	true
+1208	Pineapple Express	/v/pineapple-express/111288768	true
+1209	Poppin Cherries	/v/poppin-cherries/111089157	true
+1210	Slice of Spice	/v/slice-of-spice/111157156	true
+1211	Strawberry Fields	/v/strawberry-fields/112220398	true
+1212	Witness the Citrus	/v/witness-the-citrus/110356279	true
+1213	Abyss, The	/v/the-abyss/111268403	true
+1214	Adult Swim	/v/adult-swim/111268413	true
+1215	Cough, The	/v/the-cough/111170530	true
+1216	Fluffer	/v/fluffer/110849897	true
+1217	Green Room	/v/green-room/111366315	true
+1218	Half Mast	/v/half-mast/110849905	true
+1219	Knuckle Sauce	/v/knuckle-sauce/110889697	true
+1220	Lichenosis	/v/lichenosis/111808649	true
+1221	Natural Ice	/v/natural-ice/111808663	true
+1222	Pool Boy	/v/pool-boy/110849887	true
+1223	Elevator Pitch	/v/elevator-pitch/111842337	true
+1224	Symbiosis	/v/symbiosis/111842346	true
+1225	Addiction	/v/addiction/111790156	true
+1226	Bay Harbor Butcher	/v/bay-harbor-butcher/112254689	true
+1227	Devil in the White City, The	/v/the-devil-in-the-white-city/112254683	true
+1228	Diesel Therapy 	/v/diesel-therapy-/111220240	true
+1229	Gas Huffer	/v/gas-huffer/112254560	true
+1230	Grab n' Go	/v/grab-n-go/111088964	true
+1231	Grain of Salt	/v/grain-of-salt/111088853	true
+1232	Grundle Bundle	/v/grundle-bundle/112254637	true
+1233	Hustle, The	/v/the-hustle/111170581	true
+1234	La NAMBLA	/v/la-nambla/111088794	true
+1235	Nystagmus	/v/nystagmus/111088777	true
+1236	Poop Dolla!!	/v/poop-dolla/111089107	true
+1237	Pure Pleasure	/v/pure-pleasure/111688258	true
+1238	Road Kill	/v/road-kill/111088926	true
+1239	Russian Body Thief	/v/russian-body-thief/112254699	true
+1240	Self Medication	/v/self-medication/112400151	true
+1241	Shake Down	/v/shake-down/111088883	true
+1242	Unmentionable, The	/v/the-unmentionable/111088761	true
+1243	Unstable Behavior	/v/unstable-behavior/111781422	true
+1244	Where the Sidewalk Ends	/v/where-the-sidewalk-ends/111220101	true
+1245	Work Therapy	/v/work-therapy/111790186	true
+1246	Better than a Stick in the Eye	/v/better-than-a-stick-in-the-eye/113229621	true
+1247	Cloudy with a Chance of Seamen	/v/cloudy-with-a-chance-of-seamen/113229427	true
+1248	Countdown	/v/countdown/113229820	true
+1249	Crazy Train	/v/crazy-train/113229646	true
+1250	Due in Time	/v/due-in-time/113229784	true
+1251	Flour Dust and Pizza Crust	/v/flour-dust-and-pizza-crust/111355472	true
+1252	Jizzy Gillespie	/v/jizzy-gillespie/113229493	true
+1253	Liftoff	/v/liftoff/113229572	true
+1254	Nightmare on Hell Creek	/v/nightmare-on-hell-creek/113229733	true
+1255	Nimbus	/v/nimbus/113229839	true
+1256	Rough Around the Edges	/v/rough-around-the-edges/113229685	true
+1257	Stratus Fear	/v/stratus-fear/111355461	true
+1258	Broken Dreams	/v/broken-dreams/113591754	true
+1259	Die with a Blessing	/v/die-with-a-blessing/110367208	true
+1260	Dyslexics Untie!	/v/dyslexics-untie/110334956	true
+1261	King Ducky	/v/king-ducky/110334937	true
+1262	Left Coast	/v/left-coast/110889557	true
+1263	Lithuanian Princess	/v/lithuanian-princess/110334995	true
+1264	Mary Anne	/v/mary-anne/112268660	true
+1265	Resistor	/v/resistor/110955668	true
+1266	Slabalicious	/v/slabalicious/111734978	true
+1267	Some Assembly Required	/v/some-assembly-required/110335006	true
+1268	Spider Monkey	/v/spider-monkey/111792332	true
+1269	Swamp Gator	/v/swamp-gator/110955673	true
+1270	Switch	/v/switch/110813089	true
+1271	Teacher's Pet	/v/teachers-pet/110335013	true
+1272	Birdman	/v/birdman/112280092	true
+1273	Dope on a Rope	/v/dope-on-a-rope/112279617	true
+1274	Fatal Vision	/v/fatal-vision/112279994	true
+1275	Flight Risk	/v/flight-risk/112279661	true
+1276	Man with a Wooden Leg	/v/man-with-a-wooden-leg/112279264	true
+1277	All Things Considered	/v/all-things-considered/106641238	true
+1278	Another Doug Reed Route	/v/another-doug-reed-route/105870243	true
+1279	Beene Material	/v/beene-material/105885175	true
+1280	BeeneStalker (closed)	/v/beenestalker-closed/105870205	true
+1281	Blade Runner (closed)	/v/blade-runner-closed/105870212	true
+1282	Bozo's Bogus Booty Biner (BBBB)	/v/bozos-bogus-booty-biner-bbbb/106731301	true
+1283	Danita Dolores	/v/danita-dolores/105870198	true
+1284	Decay's Way	/v/decays-way/105870193	true
+1285	Forearm Follies	/v/forearm-follies/106061926	true
+1286	Forearm Follies (2nd anchor)	/v/forearm-follies-2nd-anchor/110229109	true
+1287	Fuzzy Undercling	/v/fuzzy-undercling/105870256	true
+1288	G.I.	/v/gi/105885179	true
+1289	Government Cheese	/v/government-cheese/107195878	true
+1290	Gung Ho	/v/gung-ho/105891685	true
+1291	In the Light	/v/in-the-light/105891681	true
+1292	Jac Mac (closed)	/v/jac-mac-closed/105870220	true
+1293	Jungle Beat	/v/jungle-beat/105870026	true
+1294	Left Turret	/v/left-turret/105939731	true
+1295	Legend, The	/v/the-legend/106053943	true
+1296	Mercy Miss Percy	/v/mercy-miss-percy/105870271	true
+1297	Minimum Creep	/v/minimum-creep/106574382	true
+1298	Moonbeam	/v/moonbeam/105891677	true
+1299	Mule	/v/mule/106594009	true
+1300	Nagypapa	/v/nagypapa/106053937	true
+1301	Nicorette	/v/nicorette/106594004	true
+1302	Not Worth It	/v/not-worth-it/112256699	true
+1303	Nothing for Now	/v/nothing-for-now/107195890	true
+1304	Parting Gift	/v/parting-gift/106123184	true
+1305	Pink Feat Boulder Problem	/v/pink-feat-boulder-problem/105891704	true
+1306	Possum Lips	/v/possum-lips/105870248	true
+1307	Reliquary, The	/v/the-reliquary/106045291	true
+1308	Stay Left	/v/stay-left/105870266	true
+1309	Subatomic Fingerlock (closed)	/v/subatomic-fingerlock-closed/105885169	true
+1310	Sunshine	/v/sunshine/105891673	true
+1311	Super Slab	/v/super-slab/106593331	true
+1312	Things That Go Bump In the Night	/v/things-that-go-bump-in-the-night/105870144	true
+1313	Thirsting Skull (closed)	/v/thirsting-skull-closed/105891694	true
+1314	Tissue Tiger	/v/tissue-tiger/105870261	true
+1315	Devine Climb	/v/devine-climb/107584999	true
+1316	Handjob	/v/handjob/105891669	true
+1317	Investigator	/v/investigator/107585050	true
+1318	Lactic Acid	/v/lactic-acid/106176822	true
+1319	Layback Crack	/v/layback-crack/105974580	true
+1320	Marmalde	/v/marmalde/105974573	true
+1321	Quest, The	/v/the-quest/105891504	true
+1322	Exodus, The	/v/the-exodus/113562035	true
+1323	Laceration	/v/laceration/107847977	true
+1324	Reach for the Beach	/v/reach-for-the-beach/108938341	true
+1325	Synergy	/v/synergy/110998903	true
+1326	Little Boy Bleu	/v/little-boy-bleu/106730251	true
+1327	Major's Pinnacle	/v/majors-pinnacle/105854086	true
+1328	Razor Burn	/v/razor-burn/105868180	true
+1329	Steal Your Thunder	/v/steal-your-thunder/105868175	true
+1330	There and Back Again	/v/there-and-back-again/105867989	true
+1331	Aptly Named	/v/aptly-named/105883461	true
+1332	Blue Biner	/v/blue-biner/106730189	true
+1333	Caterpillar Crack	/v/caterpillar-crack/107574176	true
+1334	DAB Chimney	/v/dab-chimney/105882839	true
+1335	Der Kommissar	/v/der-kommissar/107792664	true
+1336	Dicey at Best	/v/dicey-at-best/107775577	true
+1337	Double Caves Crack	/v/double-caves-crack/111316765	true
+1338	Good Tang	/v/good-tang/106730200	true
+1339	Hierarchy	/v/hierarchy/105882857	true
+1340	Lost Dart	/v/lost-dart/105882833	true
+1341	Lost Dart Crack	/v/lost-dart-crack/110966062	true
+1342	Love Hurts	/v/love-hurts/105882861	true
+1343	Seven-Ten Split	/v/seven-ten-split/105883480	true
+1344	Spider Squat, The	/v/the-spider-squat/109077624	true
+1345	Weasel, The	/v/the-weasel/105883470	true
+1346	Jack the Ripper	/v/jack-the-ripper/106973470	true
+1347	Buffin'  the Taint	/v/buffin-the-taint/108544831	true
+1348	Full Service	/v/full-service/108544822	true
+1349	Kaiju	/v/kaiju/108544808	true
+1350	Stonehinge	/v/stonehinge/108544814	true
+1351	Wide Pride	/v/wide-pride/107845041	true
+1352	Approach, The	/v/the-approach/110547559	true
+1353	Are the Pies Fresh?	/v/are-the-pies-fresh/105917901	true
+1354	Autumn	/v/autumn/105868022	true
+1355	B3	/v/b3/105868693	true
+1356	Back Door to Paris	/v/back-door-to-paris/105891912	true
+1357	Big Country	/v/big-country/105865495	true
+1358	Bloodline	/v/bloodline/107667764	true
+1359	Boom Boom Out Go The Lights	/v/boom-boom-out-go-the-lights/105885186	true
+1360	Cruise Control	/v/cruise-control/106417326	true
+1361	Fear and Loathing in Nada	/v/fear-and-loathing-in-nada/108037538	true
+1362	Fire and Finess	/v/fire-and-finess/107195778	true
+1363	Game Boy	/v/game-boy/106309183	true
+1364	Gift, The	/v/the-gift/105917897	true
+1365	Gladuator	/v/gladuator/107195829	true
+1366	Hot September	/v/hot-september/106417287	true
+1367	Kazi and Mito	/v/kazi-and-mito/107195787	true
+1368	Long Wall Chimney	/v/long-wall-chimney/105919225	true
+1369	Mailbox	/v/mailbox/105868688	true
+1370	NEPA This	/v/nepa-this/107195728	true
+1371	Next Day Air	/v/next-day-air/107667730	true
+1372	Now I'm Nothing	/v/now-im-nothing/105868029	true
+1373	Perforator	/v/perforator/105868700	true
+1374	Ralph & Bob's	/v/ralph--bobs/105919218	true
+1375	Rock Caddie	/v/rock-caddie/107195821	true
+1376	Rock Wars	/v/rock-wars/105868000	true
+1377	Sacred Geometry	/v/sacred-geometry/107667738	true
+1378	Snatch, The	/v/the-snatch/107195807	true
+1379	Souders Crack	/v/souders-crack/106937634	true
+1380	Stand and Deliver	/v/stand-and-deliver/107195735	true
+1381	Suction Lipectomy	/v/suction-lipectomy/112304287	true
+1382	Trinket Man	/v/trinket-man/107195762	true
+1383	Two Step	/v/two-step/105868036	true
+1384	Vector Trouble	/v/vector-trouble/105865685	true
+1385	Whip It Out	/v/whip-it-out/107195752	true
+1386	Yuk	/v/yuk/105868048	true
+1387	Aquaduck Pocket	/v/aquaduck-pocket/105866361	true
+1388	Brother Stair	/v/brother-stair/105866353	true
+1389	Dinosaur, The	/v/the-dinosaur/106325136	true
+1390	Face Up To That Crack	/v/face-up-to-that-crack/105860667	true
+1391	Fast Food Christians	/v/fast-food-christians/105860661	true
+1392	Fresh Meat	/v/fresh-meat/112905265	true
+1393	Henry	/v/henry/105867536	true
+1394	Infectious	/v/infectious/106169612	true
+1395	Maypop	/v/maypop/105860735	true
+1396	Mercy the Huff	/v/mercy-the-huff/106045269	true
+1397	Mr. Bungle	/v/mr-bungle/105860693	true
+1398	Relaxed Atmoshere	/v/relaxed-atmoshere/105866366	true
+1399	Sex Farm	/v/sex-farm/106146866	true
+1400	Stunning the Hog	/v/stunning-the-hog/106146849	true
+1401	Table of Colors	/v/table-of-colors/106304964	true
+1402	Table of Colors Direct	/v/table-of-colors-direct/107081591	true
+1403	Third World Lover	/v/third-world-lover/105866371	true
+1404	To Defy The Laws Of Tradition	/v/to-defy-the-laws-of-tradition/105860648	true
+1405	Too Many Puppies	/v/too-many-puppies/105893624	true
+1406	Unsportsmanlike Conduct	/v/unsportsmanlike-conduct/111748094	true
+1407	Wild Yet Tasty	/v/wild-yet-tasty/105943552	true
+1408	Blowing Your Lobe	/v/blowing-your-lobe/112885346	true
+1409	Bouldering Sucks	/v/bouldering-sucks/112885376	true
+1410	Coping Mechanism	/v/coping-mechanism/112885353	true
+1411	Corn Syrup and Weed	/v/corn-syrup-and-weed/112885279	true
+1412	Dustin Stevenzes Route	/v/dustin-stevenzes-route/112885263	true
+1413	Lampwright's Street	/v/lampwrights-street/111484690	true
+1414	Macie's Pinnacle--Standard Route 	/v/macies-pinnacle--standard-route-/112885273	true
+1415	Old Men	/v/old-men/111484814	true
+1416	Ole Switcharoo, The	/v/the-ole-switcharoo/112885284	true
+1417	Pleasant Disappointment 	/v/pleasant-disappointment-/112885392	true
+1418	Polar Opposites 	/v/polar-opposites-/112885307	true
+1419	Shake-N-Flake	/v/shake-n-flake/112885360	true
+1420	Shell Shocked	/v/shell-shocked/112885196	true
+1421	Spider Sanction	/v/spider-sanction/112885338	true
+1422	Squirrel Nut Zipper	/v/squirrel-nut-zipper/112885177	true
+1423	Stay Tight	/v/stay-tight/112885397	true
+1424	Up Yonder	/v/up-yonder/112885293	true
+1425	Whats Left of Kyle	/v/whats-left-of-kyle/112885323	true
+1426	Copperhead	/v/copperhead/105869356	true
+1427	Diamond in the Crack	/v/diamond-in-the-crack/105854135	true
+1428	Kool Aid	/v/kool-aid/112553111	true
+1429	Bambi: Caught in the Headlights	/v/bambi-caught-in-the-headlights/105880841	true
+1430	Dead Deer	/v/dead-deer/105917885	true
+1431	Long Live Trad	/v/long-live-trad/105869204	true
+1432	Piranha	/v/piranha/105917878	true
+1433	Better Red than Dead	/v/better-red-than-dead/112250514	true
+1434	Blood on the Nuts	/v/blood-on-the-nuts/107649608	true
+1435	Country Lovin	/v/country-lovin/106404805	true
+1436	Crack Attack	/v/crack-attack/106405603	true
+1437	Fibrulator	/v/fibrulator/106404831	true
+1438	Gizmo	/v/gizmo/110913462	true
+1439	Jim's Dihedral	/v/jims-dihedral/106962264	true
+1440	Slimy Creatures	/v/slimy-creatures/107400081	true
+1441	Astro Flex	/v/astro-flex/111278987	true
+1442	Close to the Edge (CLOSED)	/v/close-to-the-edge-closed/106730381	true
+1443	Finger Lickin' Good (CLOSED)	/v/finger-lickin-good-closed/106730366	true
+1444	Lunatic Fringe	/v/lunatic-fringe/106730391	true
+1445	Starship Trooper	/v/starship-trooper/111279056	true
+1446	Sultans of Stem (CLOSED)	/v/sultans-of-stem-closed/106730360	true
+1447	Black Dog	/v/black-dog/105883500	true
+1448	Lucky Devil	/v/lucky-devil/105883508	true
+1449	Mr. Smartypants	/v/mr-smartypants/105883504	true
+1450	Sugar High	/v/sugar-high/105883494	true
+1451	Auxier Chimney	/v/auxier-chimney/105869338	true
+1452	Dirty Rastafarian Scoundrels	/v/dirty-rastafarian-scoundrels/105868531	true
+1453	Girdle Traverse	/v/girdle-traverse/105868497	true
+1454	Haystack	/v/haystack/105868516	true
+1455	Original Route	/v/original-route/105868524	true
+1456	South East Face	/v/south-east-face/105868503	true
+1457	Fallout	/v/fallout/105872771	true
+1458	Full Moon	/v/full-moon/105872766	true
+1459	Rockhouse	/v/rockhouse/106723829	true
+1460	Tickle Me Elmo	/v/tickle-me-elmo/106837567	true
+1461	Wocket in My Pocket	/v/wocket-in-my-pocket/105880896	true
+1462	You Might Be a Redneck	/v/you-might-be-a-redneck/105869993	true
+1463	All Cows Eat Grass	/v/all-cows-eat-grass/105885030	true
+1464	Altered Scale	/v/altered-scale/106286285	true
+1465	Andromeda Strain	/v/andromeda-strain/105871982	true
+1466	AWOL	/v/awol/105880940	true
+1467	C Sharp or B Flat	/v/c-sharp-or-b-flat/105882846	true
+1468	Camel Toe Jockey	/v/camel-toe-jockey/106383573	true
+1469	Chunnel	/v/chunnel/106727781	true
+1470	Crazy Fingers	/v/crazy-fingers/105886641	true
+1471	Dragonslayer	/v/dragonslayer/105886633	true
+1472	Fadda	/v/fadda/105860751	true
+1473	Five Finger Discount	/v/five-finger-discount/105860747	true
+1474	Gumby Land	/v/gumby-land/105892936	true
+1475	Hard Left	/v/hard-left/106065335	true
+1476	Harder Than Your Husband	/v/harder-than-your-husband/106045420	true
+1477	Hemisfear	/v/hemisfear/106369238	true
+1478	Home Is Where the Heart Is	/v/home-is-where-the-heart-is/106961737	true
+1479	I Didn't Know This Was The End	/v/i-didnt-know-this-was-the-end/113083865	true
+1480	Jersey Connection	/v/jersey-connection/106045278	true
+1481	Jump for Joy	/v/jump-for-joy/105871986	true
+1482	Just Duet	/v/just-duet/106124912	true
+1483	Kampsight	/v/kampsight/105882851	true
+1484	Ledger Line	/v/ledger-line/105892929	true
+1485	Milkin' the Chicken	/v/milkin-the-chicken/105871993	true
+1486	Motha	/v/motha/105860755	true
+1487	Pine	/v/pine/106584364	true
+1488	Pulling Pockets	/v/pulling-pockets/105893126	true
+1489	Return of Chris Snyder, The	/v/the-return-of-chris-snyder/106020821	true
+1490	Ro Shamlo	/v/ro-shamlo/112895232	true
+1491	Ro Shampo	/v/ro-shampo/105860759	true
+1492	Roadside Attraction	/v/roadside-attraction/105860741	true
+1493	Rosetta Phone Home	/v/rosetta-phone-home/112256601	true
+1494	Runnin Down a Dream	/v/runnin-down-a-dream/106402728	true
+1495	Scissors	/v/scissors/107059158	true
+1496	Stay the Hand	/v/stay-the-hand/105880953	true
+1497	Strawberry Shortcake	/v/strawberry-shortcake/113647225	true
+1498	Strevels Gets in Shape	/v/strevels-gets-in-shape/106233733	true
+1499	Synchronicity	/v/synchronicity/105889531	true
+1500	Tic-Tac-Toe	/v/tic-tac-toe/106045283	true
+1501	Trouble Clef	/v/trouble-clef/106227805	true
+1502	Up Yonder	/v/up-yonder/105901381	true
+1503	Valor Over Discretion	/v/valor-over-discretion/106026660	true
+1504	Way Up Yonder	/v/way-up-yonder/106037239	true
+1505	Wicked Games	/v/wicked-games/106062725	true
+1506	Wild Gift	/v/wild-gift/105945822	true
+1507	You Can Tune a Piano, but You Can't Tuna Fish	/v/you-can-tune-a-piano-but-you-cant-tuna-fish/106286289	true
+1508	Casual Viewing	/v/casual-viewing/105878287	true
+1509	Deep Six	/v/deep-six/106309901	true
+1510	Disappearer	/v/disappearer/106309912	true
+1511	Dog Fight (a.k.a. Circa Man)	/v/dog-fight-aka-circa-man/107622069	true
+1512	Eureka	/v/eureka/105880926	true
+1513	Father and Son	/v/father-and-son/105872426	true
+1514	Howard Roark	/v/howard-roark/110534936	true
+1515	Jake Flake	/v/jake-flake/106723819	true
+1516	Kentucky Pinstripe	/v/kentucky-pinstripe/105880920	true
+1517	Loosen Up	/v/loosen-up/106109316	true
+1518	Out For Justice	/v/out-for-justice/106123164	true
+1519	Vision	/v/vision/105880914	true
+1520	Appalachian Spring	/v/appalachian-spring/106599327	true
+1521	Cruising Lane	/v/cruising-lane/105866423	true
+1522	Emphysema	/v/emphysema/111843514	true
+1523	Eye of the Needle	/v/eye-of-the-needle/106282978	true
+1524	Frugal Chariot	/v/frugal-chariot/106599342	true
+1525	Funkadelic	/v/funkadelic/105866459	true
+1526	Glory Be 	/v/glory-be-/107857060	true
+1527	Go Easy Billy Clyde!	/v/go-easy-billy-clyde/106282988	true
+1528	Goodstone	/v/goodstone/105867546	true
+1529	Hardcore Jollies	/v/hardcore-jollies/105868713	true
+1530	Headstone Surfer	/v/headstone-surfer/105866439	true
+1531	Infidel, The	/v/the-infidel/107122332	true
+1532	Joe Camel	/v/joe-camel/106383603	true
+1533	L'ile Au Ciel	/v/lile-au-ciel/105868726	true
+1534	Local Color	/v/local-color/105867551	true
+1535	Manic Impression	/v/manic-impression/105866451	true
+1536	Orange Juice	/v/orange-juice/106599268	true
+1537	Prime Directive	/v/prime-directive/105869244	true
+1538	Red Hot Chilli Pepper	/v/red-hot-chilli-pepper/105869231	true
+1539	Rite of Passage	/v/rite-of-passage/105866429	true
+1540	Seppuku	/v/seppuku/106599306	true
+1541	Smokin' Joe	/v/smokin-joe/106282997	true
+1542	Sparkey Goes Crack Climbing	/v/sparkey-goes-crack-climbing/105871970	true
+1543	There Goes the Neighborhood	/v/there-goes-the-neighborhood/106283004	true
+1544	Up Swift Creek Without A Paddle	/v/up-swift-creek-without-a-paddle/105869239	true
+1545	Veldhaus Route	/v/veldhaus-route/105918104	true
+1546	Critical Crystal	/v/critical-crystal/111975891	true
+1547	Friction Slab	/v/friction-slab/111975858	true
+1548	Swiggity Swag the Nightmare Stag	/v/swiggity-swag-the-nightmare-stag/108791007	true
+1549	Table Top	/v/table-top/111975909	true
+1550	Way of the Leaf, The	/v/the-way-of-the-leaf/106837545	true
+1551	American Crack	/v/american-crack/105889552	true
+1552	American Wall	/v/american-wall/105889548	true
+1553	Battlement, The	/v/the-battlement/105870284	true
+1554	Bedtime for Bonzo	/v/bedtime-for-bonzo/105871977	true
+1555	Blue Runner	/v/blue-runner/105970537	true
+1556	Bombs Bursting	/v/bombs-bursting/105872466	true
+1557	Bonzo's Revenge	/v/bonzos-revenge/111084937	true
+1558	Calypso I	/v/calypso-i/106129927	true
+1559	Calypso II	/v/calypso-ii/106129702	true
+1560	Calypso III	/v/calypso-iii/105919570	true
+1561	Fading Memory	/v/fading-memory/105889556	true
+1562	Fortress Grunges	/v/fortress-grunges/111084958	true
+1563	Get Outta My Way	/v/get-outta-my-way/108150461	true
+1564	Horny Bitch	/v/horny-bitch/105886627	true
+1565	Lost in Space	/v/lost-in-space/112040438	true
+1566	Party Time	/v/party-time/105870326	true
+1567	Route 48	/v/route-48/106730087	true
+1568	Scratch Your Face	/v/scratch-your-face/106045399	true
+1569	Serpent	/v/serpent/105919564	true
+1570	Snake	/v/snake/105919554	true
+1571	Thunder Chicken	/v/thunder-chicken/110268453	true
+1572	Turret, The	/v/the-turret/106730108	true
+1573	Where Lizards Dare	/v/where-lizards-dare/105919793	true
+1574	Big Toe Arete	/v/big-toe-arete/109499201	true
+1575	Black Magic Arete	/v/black-magic-arete/106837486	true
+1576	Callandor	/v/callandor/106837495	true
+1577	Constellation	/v/constellation/106837515	true
+1578	Dangatang	/v/dangatang/111184533	true
+1579	Diamond In The Rough	/v/diamond-in-the-rough/105860768	true
+1580	Father's Day	/v/fathers-day/105870764	true
+1581	Fictitious Egg, The	/v/the-fictitious-egg/106840221	true
+1582	Flying Monkeys	/v/flying-monkeys/105870231	true
+1583	Hollow Threat	/v/hollow-threat/106840193	true
+1584	In The Middle	/v/in-the-middle/109499279	true
+1585	Let the Wookie Win	/v/let-the-wookie-win/106730262	true
+1586	Lolliop Kids	/v/lolliop-kids/105870239	true
+1587	Mandarin	/v/mandarin/105870781	true
+1588	My Sexy Cranberry	/v/my-sexy-cranberry/106837525	true
+1589	No Place Like Home	/v/no-place-like-home/105870227	true
+1590	Oz	/v/oz/105860773	true
+1591	Ruby Slippers	/v/ruby-slippers/105870235	true
+1592	Saint George	/v/saint-george/111184639	true
+1593	Sharp	/v/sharp/105870665	true
+1594	Shelf Life	/v/shelf-life/106730270	true
+1595	Shining, The	/v/the-shining/105870653	true
+1596	Skittles	/v/skittles/106837502	true
+1597	TNT	/v/tnt/111858868	true
+1598	Toto	/v/toto/109499027	true
+1599	Watto (SDS)	/v/watto-sds/109499156	true
+1600	Whiteout	/v/whiteout/105870659	true
+1601	Whiteout Direct (aka Nerds)	/v/whiteout-direct-aka-nerds/105870771	true
+1602	Wolverine	/v/wolverine/105880931	true
+1603	Yellow Brick Road	/v/yellow-brick-road/105870649	true
+1604	Commencement	/v/commencement/105917962	true
+1605	Corpus Delicti	/v/corpus-delicti/111889920	true
+1606	Dave the Dude	/v/dave-the-dude/106169442	true
+1607	Doppler Effect	/v/doppler-effect/105870316	true
+1608	Drop the Anchor	/v/drop-the-anchor/105870321	true
+1609	Good Times	/v/good-times/105917970	true
+1610	Grunge Face	/v/grunge-face/108144688	true
+1611	Inhibitor	/v/inhibitor/105917957	true
+1612	Jack in the Pulpit	/v/jack-in-the-pulpit/105917977	true
+1613	King Me	/v/king-me/105964688	true
+1614	Learning Curve, The	/v/the-learning-curve/107621628	true
+1615	Martin Rides Again	/v/martin-rides-again/107433601	true
+1616	No Return	/v/no-return/105978349	true
+1617	Pearl, The	/v/the-pearl/106837482	true
+1618	Rifleman, The	/v/the-rifleman/111400357	true
+1619	Sick Puppies	/v/sick-puppies/108392771	true
+1620	Silently Does the Sun Shine	/v/silently-does-the-sun-shine/107667743	true
+1621	Soul Ram	/v/soul-ram/107389163	true
+1622	Super Dario	/v/super-dario/106121898	true
+1623	Underling, The	/v/the-underling/105867266	true
+1624	What's Right with the Underling	/v/whats-right-with-the-underling/108383761	true
+1625	Blister in the Sun	/v/blister-in-the-sun/106837476	true
+1626	Day Dreaming	/v/day-dreaming/105917914	true
+1627	Day Tripping	/v/day-tripping/107051854	true
+1628	Foxfire	/v/foxfire/105854070	true
+1629	Twin Cracks	/v/twin-cracks/105917918	true
+1630	Beeneling, The	/v/the-beeneling/113327074	true
+1631	Dog Dreamin'	/v/dog-dreamin/113531010	true
+1632	Frenchburg Overhangs	/v/frenchburg-overhangs/108437340	true
+1633	In Search of the Beeneling	/v/in-search-of-the-beeneling/113327140	true
+1634	What's Left of the Beeneling	/v/whats-left-of-the-beeneling/108438115	true
+1635	Chickenhead Better Than No Head	/v/chickenhead-better-than-no-head/107334506	true
+1636	God Save the Queen	/v/god-save-the-queen/106371729	true
+1637	Green Eggs	/v/green-eggs/105872434	true
+1638	Grinch, The	/v/the-grinch/105872871	true
+1639	Griptospuridiam	/v/griptospuridiam/107334542	true
+1640	Ham	/v/ham/105872442	true
+1641	Logic and Proportion	/v/logic-and-proportion/107334531	true
+1642	Lorax Tree, The	/v/the-lorax-tree/107353511	true
+1643	One Fist, Two Fist, Red Fist, Blue Fist	/v/one-fist-two-fist-red-fist-blue-fist/105871488	true
+1644	Orange Crush	/v/orange-crush/108192500	true
+1645	Over the Hedge	/v/over-the-hedge/105871304	true
+1646	Sam I Am	/v/sam-i-am/107884601	true
+1647	Seuss is Dead	/v/seuss-is-dead/107353501	true
+1648	Star Bellied Sneeches	/v/star-bellied-sneeches/107574134	true
+1649	Sylvester McMonkey McBean (aka Snitches)	/v/sylvester-mcmonkey-mcbean-aka-snitches/108192487	true
+1650	Theodor Seuss Geisel	/v/theodor-seuss-geisel/110965911	true
+1651	Whoville	/v/whoville/105873399	true
+1652	Bolt Route	/v/bolt-route/112904472	true
+1653	Standard Route	/v/standard-route/105866010	true
+1654	Warm Up	/v/warm-up/105870792	true
+1655	Baptist Preacher	/v/baptist-preacher/107699096	true
+1656	Camp	/v/camp/107388632	true
+1657	Crag	/v/crag/107388654	true
+1658	Store	/v/store/107388644	true
+1659	Horse and His Boy, The	/v/the-horse-and-his-boy/112250253	true
+1660	Prince Caspian	/v/prince-caspian/112250263	true
+1661	Stranger Than Paradise	/v/stranger-than-paradise/105870787	true
+1662	Afternoon Buzz	/v/afternoon-buzz/112269960	true
+1663	Beer-Thirty	/v/beer-thirty/111591136	true
+1664	Darkness Falls	/v/darkness-falls/108341662	true
+1665	Evening Wood	/v/evening-wood/111790261	true
+1666	Fake ID	/v/fake-id/113642598	true
+1667	Fray Train, The	/v/the-fray-train/111790305	true
+1668	Hang Over	/v/hang-over/111591162	true
+1669	High Life	/v/high-life/111790326	true
+1670	Korsakoff Syndrome	/v/korsakoff-syndrome/112162687	true
+1671	Morning Wood	/v/morning-wood/108401317	true
+1672	Sluts are Cool	/v/sluts-are-cool/111281182	true
+1673	Summer Shandy	/v/summer-shandy/112827796	true
+1674	Trailer Trashed	/v/trailer-trashed/108086116	true
+1675	Blue Sky	/v/blue-sky/105868158	true
+1676	East Face J Rock	/v/east-face-j-rock/105868169	true
+1677	Little White Lie	/v/little-white-lie/105868153	true
+1678	Bear's Den, The	/v/the-bears-den/108387175	false
+1679	Chocolate Factory	/v/chocolate-factory/106229629	false
+1680	Motherlode, The	/v/the-motherlode/106124299	false
+1681	Unlode, The	/v/the-unlode/106927882	false
+1682	Unbridled	/v/unbridled/106927891	true
+1683	Undesirable	/v/undesirable/106927939	true
+1684	Unworthy	/v/unworthy/106927926	true
+1685	Buckeye Buttress	/v/buckeye-buttress/111129478	false
+1686	GMC Wall	/v/gmc-wall/111129488	false
+1687	Madness Cave	/v/madness-cave/111129496	false
+1688	Undertow Wall	/v/undertow-wall/111129504	false
+1689	Warm-Up Wall	/v/warm-up-wall/111129484	false
+1690	All In	/v/all-in/111085447	true
+1691	Ben	/v/ben/107934642	true
+1692	Breathe Right	/v/breathe-right/106975155	true
+1693	Injured Reserve	/v/injured-reserve/106484453	true
+1694	Laura	/v/laura/107899800	true
+1695	Purdy Mouth	/v/purdy-mouth/109089998	true
+1696	So Low	/v/so-low/110329120	true
+1697	Swahili Slang	/v/swahili-slang/106598941	true
+1698	Trust in Jesus	/v/trust-in-jesus/106577231	true
+1699	Ale-8-One	/v/ale-8-one/106445478	true
+1700	Burlier's Bane	/v/burliers-bane/106538496	true
+1701	Chainsaw Massacre	/v/chainsaw-massacre/106153682	true
+1702	Convicted	/v/convicted/106598931	true
+1703	Crime Time	/v/crime-time/106756611	true
+1704	Flux Capacitor	/v/flux-capacitor/106417464	true
+1705	Harvest	/v/harvest/106417458	true
+1706	High Hard One (aka Subman), The	/v/the-high-hard-one-aka-subman/106736608	true
+1707	Hoofmaker	/v/hoofmaker/106417447	true
+1708	Kick Me In The Jimmie	/v/kick-me-in-the-jimmie/106484047	true
+1709	Leave it to Beavis	/v/leave-it-to-beavis/106585384	true
+1710	Low Easy One, The	/v/the-low-easy-one/106895870	true
+1711	Resurrection	/v/resurrection/106727829	true
+1712	Rocket Dog	/v/rocket-dog/106305165	true
+1713	Sauce, The	/v/the-sauce/106925412	true
+1714	Scrambled Porn	/v/scrambled-porn/112224367	true
+1715	Skin Boat	/v/skin-boat/106579687	true
+1716	SKWBA	/v/skwba/106928753	true
+1717	Snapper	/v/snapper/106575787	true
+1718	Stabbed in the Back	/v/stabbed-in-the-back/107359867	true
+1719	Stella	/v/stella/106895836	true
+1720	Team Wilson	/v/team-wilson/106916504	true
+1721	Tuna Town	/v/tuna-town/106393414	true
+1722	Verdict, The	/v/the-verdict/106932351	true
+1723	BOHICA	/v/bohica/106575756	true
+1724	Flour Power	/v/flour-power/106969206	true
+1725	Forty Ounces of Justice	/v/forty-ounces-of-justice/106585375	true
+1726	Madness, The	/v/the-madness/106575777	true
+1727	Omaha Beach	/v/omaha-beach/111342844	true
+1728	Pushing Up Daisies	/v/pushing-up-daisies/106969249	true
+1729	Transworld Depravity	/v/transworld-depravity/107392101	true
+1730	8 Ball	/v/8-ball/106575765	true
+1731	Cutthroat	/v/cutthroat/107055941	true
+1732	False Positive	/v/false-positive/108646527	true
+1733	Hot For Teacher	/v/hot-for-teacher/106969294	true
+1734	Snooker	/v/snooker/107055936	true
+1735	White Man's Overbite	/v/white-mans-overbite/107152892	true
+1736	Ball Scratcher	/v/ball-scratcher/106598936	true
+1737	Buff the Wood	/v/buff-the-wood/106261131	true
+1738	Chronic, The	/v/the-chronic/108371294	true
+1739	Cream Machine, The	/v/the-cream-machine/111312748	true
+1740	Golden Touch	/v/golden-touch/106543000	true
+1741	Heart Shaped Box	/v/heart-shaped-box/106286388	true
+1742	Leftomaniac	/v/leftomaniac/110343233	true
+1743	One-Eyed Willy Up the Back	/v/one-eyed-willy-up-the-back/107195921	true
+1744	Overdrive	/v/overdrive/112278421	true
+1745	Reacharound, The	/v/the-reacharound/107055948	true
+1746	Rug Muncher	/v/rug-muncher/111378920	true
+1747	Stain	/v/stain/106286382	true
+1748	Trad Sucker	/v/trad-sucker/106164148	true
+1749	Twisted	/v/twisted/106969274	true
+1750	Andy Man Can, The	/v/the-andy-man-can/106229634	true
+1751	Augustus Gloop	/v/augustus-gloop/107756397	true
+1752	Babinski sign 	/v/babinski-sign-/107892923	true
+1753	Ball Nuts and Brassies (Aka Broken Ankles)	/v/ball-nuts-and-brassies-aka-broken-ankles/108640441	true
+1754	Bleak December	/v/bleak-december/107401205	true
+1755	Breakin the Law	/v/breakin-the-law/111855528	true
+1756	Butane Junky	/v/butane-junky/110239204	true
+1757	Buttercup	/v/buttercup/108412856	true
+1758	Cat's Demise	/v/cats-demise/107759737	true
+1759	Charlie	/v/charlie/108415831	true
+1760	Chocolate River	/v/chocolate-river/106453181	true
+1761	Climactic Crush	/v/climactic-crush/109695218	true
+1762	Dainty Butterfly, The	/v/the-dainty-butterfly/111312129	true
+1763	Death by Chocolate	/v/death-by-chocolate/112337789	true
+1764	Easy Pickins	/v/easy-pickins/107667789	true
+1765	EGBG	/v/egbg/108766319	true
+1766	Enkidu	/v/enkidu/107892916	true
+1767	Fatman	/v/fatman/110325706	true
+1768	Fickelgruber	/v/fickelgruber/108384261	true
+1769	For Your Health	/v/for-your-health/108206728	true
+1770	Gene Wilder	/v/gene-wilder/108430483	true
+1771	Gilgamesh	/v/gilgamesh/108126174	true
+1772	Glass Elevator, The	/v/the-glass-elevator/106927822	true
+1773	Gobstopper	/v/gobstopper/107667776	true
+1774	Golden Ticket	/v/golden-ticket/108521478	true
+1775	Grandpa Joe	/v/grandpa-joe/109480361	true
+1776	Grumpalump	/v/grumpalump/108341815	true
+1777	Hip to the Jive	/v/hip-to-the-jive/107379148	true
+1778	Icebreaker	/v/icebreaker/108128595	true
+1779	J Rat's Back	/v/j-rats-back/106453221	true
+1780	Juggernaut, The	/v/the-juggernaut/109770822	true
+1781	Loompa	/v/loompa/106927842	true
+1782	Malice	/v/malice/106968288	true
+1783	Mike Teavee	/v/mike-teavee/108749249	true
+1784	Molten	/v/molten/108055657	true
+1785	Mr. P.	/v/mr-p/107921969	true
+1786	Naked	/v/naked/108341704	true
+1787	Old School Chocolate	/v/old-school-chocolate/112415973	true
+1788	One Side Makes You Taller	/v/one-side-makes-you-taller/107379134	true
+1789	Oompa	/v/oompa/106782060	true
+1790	Perfect Puzzle	/v/perfect-puzzle/112913180	true
+1791	Pure Imagination	/v/pure-imagination/108366830	true
+1792	Robotic Thumb	/v/robotic-thumb/107892930	true
+1793	Scarlet Scorchdropper	/v/scarlet-scorchdropper/111756736	true
+1794	Snarf Victory	/v/snarf-victory/109480386	true
+1795	Snozzberries	/v/snozzberries/108411358	true
+1796	Squirrelworker	/v/squirrelworker/111145636	true
+1797	Strongyloides	/v/strongyloides/107667783	true
+1798	Sugar Rush	/v/sugar-rush/107074597	true
+1799	Sunday Night Cockfights	/v/sunday-night-cockfights/111378943	true
+1800	Swedish Fish	/v/swedish-fish/108043545	true
+1801	Team Tough on Tour	/v/team-tough-on-tour/108429570	true
+1802	Theobroma	/v/theobroma/109770874	true
+1803	Throbbing Emotions	/v/throbbing-emotions/108064675	true
+1804	Through the Looking Glass	/v/through-the-looking-glass/108640459	true
+1805	Toxicodendron	/v/toxicodendron/109695855	true
+1806	Willy Wonka	/v/willy-wonka/108749213	true
+1807	Wobbler	/v/wobbler/109472352	true
+1808	Wonkaholic	/v/wonkaholic/107379163	true
+1809	72 Hour Energy	/v/72-hour-energy/110261773	true
+1810	C Quest R	/v/c-quest-r/110330437	true
+1811	Clay City Exit	/v/clay-city-exit/110270655	true
+1812	Gandee Candy	/v/gandee-candy/108389072	true
+1813	Golden Snow Cone	/v/golden-snow-cone/109469913	true
+1814	Low Hanging Fruit	/v/low-hanging-fruit/110270679	true
+1815	Mooch	/v/mooch/110330421	true
+1816	Off The Couch	/v/off-the-couch/111304044	true
+1817	Pinkalicious	/v/pinkalicious/111292167	true
+1818	Psychopomp	/v/psychopomp/111251858	true
+1819	Routeburglar 	/v/routeburglar-/111281142	true
+1820	Shadow Enhancement	/v/shadow-enhancement/110261825	true
+1821	Squatter	/v/squatter/111790387	true
+1822	Tar Baby	/v/tar-baby/109469891	true
+1823	All Cracked Up	/v/all-cracked-up/105869528	true
+1824	Foggy Mountain Breakdown	/v/foggy-mountain-breakdown/105869511	true
+1825	Jolly Roger, The	/v/the-jolly-roger/105869502	true
+1826	Mountain View Drive-In	/v/mountain-view-drive-in/105869516	true
