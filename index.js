@@ -29,7 +29,7 @@ class Node {
 
 function writeToTSV(parent, child) {
   const isRoute = (child.type === 'route');
-  pages.write(`${child.id}\t${child.name}\t${child.url}\t${isRoute}\n`);
+  pages.write(`${child.id}\t"${child.name}"\t"${child.url}"\t${isRoute}\n`);
   if (parent !== undefined) {
     relationships.write(`${parent.id}\t${child.id}\n`);
   }
@@ -72,7 +72,7 @@ while (stack.length !== 0) {
     // This could be refactored, but it's easier to understand like this
     if (discoveringAreas) {
       $('#viewerLeftNavColContent').find('a[target=_top]').each((i, e) => {
-        const name = $(e).text();
+        const name = $(e).text().replace(/'/g, "''").replace(/"/g, "");
         const url = $(e).attr('href');
         const child = new Node(name, url, 'area');
         writeToTSV(node, child);
@@ -81,7 +81,7 @@ while (stack.length !== 0) {
       });
     } else {
       $('#leftNavRoutes').find('a').each((i, e) => {
-        const name = $(e).text();
+        const name = $(e).text().replace(/'/g, "''").replace(/"/g, "");
         const url = $(e).attr('href');
         const child = new Node(name, url, 'route');
         writeToTSV(node, child);
