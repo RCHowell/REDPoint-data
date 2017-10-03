@@ -33,7 +33,7 @@ describe('Testing Route Scraping', () => {
           parent: 'Funk Rock City',
           name: 'Local Color',
           type: 'TR',
-          pitches: '1 pitch',
+          // pitches: '1 pitch',
           length: 80,
           grade: '5.10b',
           stars: 2.0,
