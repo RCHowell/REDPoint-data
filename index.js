@@ -2,12 +2,12 @@ const request = require('sync-request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const pages = fs.createWriteStream('pages.tsv');
-const relationships = fs.createWriteStream('relationships.tsv');
+const pages = fs.createWriteStream('./data/pages.tsv');
+const relationships = fs.createWriteStream('./data/relationships.tsv');
 
 // Write TSV Headers
-pages.write('PAGE_ID\tPAGE_NAME\tPAGE_URL\tIS_ROUTE\n');
-relationships.write('PARENT_ID\tCHILD_ID\n');
+// pages.write('PAGE_ID\tPAGE_NAME\tPAGE_URL\tIS_ROUTE\n');
+// relationships.write('PARENT_ID\tCHILD_ID\n');
 
 // Count tallies up how many nodes have been made, and uses that the node id
 let COUNT = 0;
@@ -28,7 +28,8 @@ class Node {
 }
 
 function writeToTSV(parent, child) {
-  const isRoute = (child.type === 'route');
+  // This data is intended to be inserted into sqlite which doesn't have a boolean type
+  const isRoute = (child.type === 'route') ? 1 : 0;
   pages.write(`${child.id}\t"${child.name}"\t"${child.url}"\t${isRoute}\n`);
   if (parent !== undefined) {
     relationships.write(`${parent.id}\t${child.id}\n`);
