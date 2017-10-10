@@ -21,7 +21,6 @@ Note: These commands use relative paths so I'm operating under the assumption th
 ### Insert TSV
 ```
 sqlite3 ./database.db
-.headers off
 .mode tabs
 .import ../data/pages.tsv pages
 .import ../data/relationships.tsv relationships
