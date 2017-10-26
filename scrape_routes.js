@@ -1,33 +1,69 @@
-const fs = require('fs');
 const path = require('path');
-const csvjson = require('csvjson');
+const fs = require('fs');
 const Route = require('./lib/route');
+const sqlite3 = require('sqlite3').verbose();
 
-const baseUrl = 'https://www.mountainproject.com';
+// Get location of db
+const dbFilename = path.join(__dirname, 'sqlite', 'relations.db');
+// console.log(`Database file: ${dbFilename}`);
 
-const pageFile = fs.readFileSync(path.join(__dirname, 'pages.tsv'), { encoding: 'utf8' });
-const options = {
-  delimiter: '\t',
-  quote: '"',
-};
+// Load routes table schema from file
+const routesTableSchemaFile = path.join(__dirname, 'sqlite', 'routes.sql');
+const routesTableSchema = fs.readFileSync(routesTableSchemaFile, {
+  encoding: 'utf-8',
+});
+// console.log(routesTableSchema);
 
-const pages = csvjson.toArray(pageFile, options);
-const { length } = pages;
+const db = new sqlite3.Database(dbFilename, sqlite3.OPEN_READWRITE, (err) => {
+  if (err) console.log(err);
+  // else console.log('Database open');
+});
 
-// Promise runners for getting routes
-const runners = [];
+db.serialize(() => {
+  // Queries within db.serialize will run sequentially
+  // db.run('DROP TABLE IF EXISTS routes');
+  // db.run(routesTableSchema);
+  const runners = []; // Promise runners
+  db.each('SELECT * FROM pages WHERE is_route = 1 limit 100 offset 1600', (err, page) => {
+    if (err) {
+      console.error(err);
+      process.exit(1);
+    }
 
-for (let i = 0; i < 100; i += 1) {
-  const page = pages[i];
-  if (page[3] !== 'true') continue;
-  const url = `${baseUrl}${page[2]}`;
-  const route = new Route(url);
-  runners.push(route.get().catch((err) => {
-    console.error(err);
-    console.log(`For ${url}`);
-  }));
-}
-
-Promise.all(runners).then((data) => {
-  console.log(csvjson.toCSV(data, options));
+    const route = new Route(page);
+    // console.log(route.url);
+    runners.push(route.get().catch((routeError) => {
+      console.error(routeError);
+      console.log(`For ${page.url}`);
+    }));
+  });
+  // Dummy query to make sure Promise.all() runs after adding all promise runners
+  // I must do this to make sure the provided callback is added to sqlite3's execution stack
+  db.run('ANALYZE routes', () => {
+    // Insert into routes table after all promises resolve
+    Promise.all(runners).then((data) => {
+      db.serialize(() => {
+        db.run('BEGIN TRANSACTION');
+        data.forEach((route) => {
+          // console.log(Object.keys(route));
+          db.run(`
+            INSERT INTO routes (route_id, name, url, type, length, grade, stars, description, location, protection)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+          `, [
+              route.route_id,
+              route.name,
+              route.url,
+              route.type,
+              route.length,
+              route.grade,
+              route.stars,
+              route.description,
+              route.location,
+              route.protection,
+            ]);
+        });
+        db.run('END');
+      });
+    });
+  });
 });

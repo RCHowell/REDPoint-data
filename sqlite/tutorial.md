@@ -8,7 +8,7 @@ Note: These commands use relative paths so I'm operating under the assumption th
 │   ├── pages.tsv
 │   ├── relationships.tsv
 ├── sqlite (Running commands from here)
-│   ├── database.db
+│   ├── relations.db (This is a database with only the relationship information and page urls)
 │   ├── join_example.sql
 │   ├── select.sql
 │   ├── tables.sql
@@ -16,11 +16,11 @@ Note: These commands use relative paths so I'm operating under the assumption th
 ```
 
 ### Create databse and insert tables
-`sqlite3 ./database.db < ./tables.sql`
+`sqlite3 ./relations.db < ./tables.sql`
 
 ### Insert TSV
 ```
-sqlite3 ./database.db
+sqlite3 ./relations.db
 .mode tabs
 .import ../data/pages.tsv pages
 .import ../data/relationships.tsv relationships

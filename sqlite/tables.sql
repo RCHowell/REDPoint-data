@@ -11,4 +11,3 @@ CREATE TABLE relationships(
   FOREIGN KEY (parent_id) REFERENCES pages(page_id),
   FOREIGN KEY (child_id)  REFERENCES pages(page_id)
 );
-
