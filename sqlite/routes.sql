@@ -8,5 +8,6 @@ CREATE TABLE routes(
   stars REAL NOT NULL,
   description TEXT NOT NULL,
   location TEXT NOT NULL,
-  protection TEXT NOT NULL
+  protection TEXT NOT NULL,
+  number INT NOT NULL
 );
