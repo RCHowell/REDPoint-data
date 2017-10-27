@@ -1,86 +1,67 @@
 const request = require('sync-request');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const path = require('path');
+const sqlite3 = require('sqlite3').verbose();
+const Area = require('./lib/area');
 
 const routeNumbers = fs.createWriteStream('./data/route_numbers.tsv');
 
-// Write TSV Headers
-// pages.write('PAGE_ID\tPAGE_NAME\tPAGE_URL\tIS_ROUTE\n');
-// relationships.write('PARENT_ID\tCHILD_ID\n');
+// Get location of db
+const dbFilename = path.join(__dirname, 'sqlite', 'relations.db');
 
-// Count tallies up how many nodes have been made, and uses that the node id
-let COUNT = 0;
+const db = new sqlite3.Database(dbFilename, sqlite3.OPEN_READWRITE, (err) => {
+  if (err) console.log(err);
+  // else console.log('Database open');
+});
 
-class Node {
-  constructor(name, url, type) {
-    COUNT += 1;
-    this.id = COUNT;
-    this.name = name;
-    this.url = url;
-    this.children = [];
-    this.type = type;
-  }
-
-  addChild(child) {
-    this.children.push(child);
-  }
+function writeToTSV(route) {
+  routeNumbers.write(`${route.id}\t${route.number}\n`);
 }
 
-function writeToTSV(routeId, routeNumber) {
-  routeNumbers.write(`${routeId}\t${routeNumber}\n`);
+function getRoutesQuery(id) {
+  return `
+    SELECT routes.url, routes.route_id FROM routes
+    INNER JOIN relationships
+    ON relationships.child_id = routes.route_id
+    WHERE relationships.parent_id = ${id}
+  `;
 }
 
-// Setup to perform depth first search
-const discovered = new Map();
-const stack = []; // Javascript arrays behave like stacks
-
-// Setup where to start searching from
-const baseUrl = 'https://www.mountainproject.com';
-const rootUrl = '/v/red-river-gorge/105841134';
-const rootNode = new Node('Red River Gorge', rootUrl, 'area');
-
-// Initialize control stack
-stack.push(rootNode);
-
-// Regular expression used for decision making
-const childrenAreAreas = /Select Area.../;
-
-// Begin search to construct graph
-while (stack.length !== 0) {
-  const node = stack.pop();
-  if (discovered.get(node.name) !== true) {
-    discovered.set(node.name, true);
-
-    console.log(`Exploring area ${node.name}`);
-
-    // Scrape Info about this node's potential children
-    const res = request('GET', `${baseUrl}${node.url}`);
-    const body = res.getBody();
-    const $ = cheerio.load(body);
-    const listTitleElement = $('#viewerLeftNavColContent').find('b').get(1);
-    const listTitle = $(listTitleElement).text();
-    // List Title tells us what the children are.
-    // Set a boolean to true if the children are areas.
-    const discoveringAreas = childrenAreAreas.test(listTitle);
-
-    // This could be refactored, but it's easier to understand like this
-    if (discoveringAreas) {
-      $('#viewerLeftNavColContent').find('a[target=_top]').each((i, e) => {
-        const name = $(e).text().replace(/'/g, "''").replace(/"/g, '');
-        const url = $(e).attr('href');
-        const child = new Node(name, url, 'area');
-        stack.push(child);
-      });
-    } else {
-      $('#leftNavRoutes').find('a').each((routeNumber, e) => {
-        const name = $(e).text().replace(/'/g, "''").replace(/"/g, '');
-        const url = $(e).attr('href');
-        const child = new Node(name, url, 'route');
-        writeToTSV(child.id, routeNumber);
-      });
-    }
+// Take in a list of routes with the route number and join with the route_id
+function join(routesWithNumber, routesWithId) {
+  const out = [];
+  const idMap = new Map();
+  for (let i = 0; i < routesWithId.length; i += 1) {
+    const route = routesWithId[i];
+    idMap.set(route.url, route.route_id);
   }
+  for (let i = 0; i < routesWithNumber.length; i += 1) {
+    const route = routesWithNumber[i];
+    const node = {
+      url: route.url,
+      id: idMap.get(route.url),
+      number: Number.parseInt(route.routeNumber, 10),
+    };
+    if (typeof node.id !== 'undefined') out.push(node);
+  }
+  return out;
 }
 
-// console.log(JSON.stringify(rootNode));
-routeNumbers.end();
+db.serialize(() => {
+  db.each('SELECT * FROM pages WHERE is_route = 0', (err, page) => {
+    if (err) console.error(err);
+    db.all(getRoutesQuery(page.page_id), (routesError, routes) => {
+      if (routesError) console.errora(err);
+      if (routes.length > 0) {
+        const area = new Area(page.url);
+        area.get().then((data) => {
+          // console.log(join(data.children, routes));
+          join(data.children, routes).forEach((element) => {
+            writeToTSV(element);
+          });
+        });
+      }
+    });
+  });
+});
