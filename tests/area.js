@@ -2,7 +2,7 @@
 // The purpose of this file is for viewing class function and debugging
 const Area = require('../lib/area');
 
-const area = new Area('https://www.mountainproject.com/v/bald-rock-recreational-preserve/112439039');
+const area = new Area(process.argv[2]);
 
 area.get().then((data) => {
   console.log(data);
