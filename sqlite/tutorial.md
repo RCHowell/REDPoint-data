@@ -5,13 +5,15 @@ Note: These commands use relative paths so I'm operating under the assumption th
 ```
 .
 ├── data
-│   ├── pages.tsv
-│   ├── relationships.tsv
+│   ├── pages.tsv (name, url, type of mountainproject pages)
+│   ├── relationships.tsv (one to many relationship table for areas and routes)
+│   ├── route_numbers.tsv (one to one relationships with the columns being route_id and route numbers from Left to Right)
 ├── sqlite (Running commands from here)
-│   ├── relations.db (This is a database with only the relationship information and page urls)
+│   ├── database.db
 │   ├── join_example.sql
 │   ├── select.sql
-│   ├── tables.sql
+│   ├── tables.sql (page and relationship table)
+│   ├── routes.sql (routes table)
 │   └── tutorial.md
 ```
 
