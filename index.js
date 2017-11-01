@@ -37,10 +37,10 @@ class Node {
   }
 }
 
-function writeToTSV(parent, child) {
+function writeToTSV(node) {
   // This data is intended to be inserted into sqlite which doesn't have a boolean type
-  const isRoute = (child.type === 'route') ? 1 : 0;
-  pages.write(`${child.id}\t"${child.name}"\t"${child.url}"\t${isRoute}\n`);
+  const isRoute = (node.type === 'route') ? 1 : 0;
+  pages.write(`${node.id}\t"${node.name}"\t"${node.url}"\t${isRoute}\n`);
 }
 
 // Setup to perform depth first search
@@ -54,9 +54,7 @@ const ancestries = new Map();
 const baseUrl = 'https://www.mountainproject.com';
 const rootUrl = '/v/red-river-gorge/105841134';
 const rootNode = new Node('Red River Gorge', rootUrl, 'area');
-
-// Write root node without giving a parent
-// writeToTSV(undefined, rootNode);
+writeToTSV(rootNode);
 
 // Initialize control structures
 stack.push(rootNode);
@@ -89,7 +87,7 @@ while (stack.length !== 0) {
         const name = $(e).text().replace(/'/g, "''").replace(/"/g, "");
         const url = $(e).attr('href');
         const child = new Node(name, url, 'area');
-        writeToTSV(node, child);
+        writeToTSV(child);
         ancestries.set(child.id, newAnsestry);
         node.addChild(child);
         stack.push(child);
@@ -99,7 +97,7 @@ while (stack.length !== 0) {
         const name = $(e).text().replace(/'/g, "''").replace(/"/g, "");
         const url = $(e).attr('href');
         const child = new Node(name, url, 'route');
-        writeToTSV(node, child);
+        writeToTSV(child);
         ancestries.set(child.id, newAnsestry);
         node.addChild(child);
       });
