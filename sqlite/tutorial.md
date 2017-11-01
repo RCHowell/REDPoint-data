@@ -6,7 +6,7 @@ Note: These commands use relative paths so I'm operating under the assumption th
 .
 ├── data
 │   ├── pages.tsv (name, url, type of mountainproject pages)
-│   ├── relationships.tsv (one to many relationship table for areas and routes)
+│   ├── relationships.tsv (transitive closure table for areas and routes relationship - including depth)
 │   ├── route_numbers.tsv (one to one relationships with the columns being route_id and route numbers from Left to Right)
 ├── sqlite (Running commands from here)
 │   ├── database.db
@@ -18,11 +18,11 @@ Note: These commands use relative paths so I'm operating under the assumption th
 ```
 
 ### Create databse and insert tables
-`sqlite3 ./relations.db < ./tables.sql`
+`sqlite3 ./database.db < ./tables.sql`
 
 ### Insert TSV
 ```
-sqlite3 ./relations.db
+sqlite3 ./database.db
 .mode tabs
 .import ../data/pages.tsv pages
 .import ../data/relationships.tsv relationships
