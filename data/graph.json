@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "children": [
+    {
+      "id": 11,
+      "children": [
+        {
+          "id": 111,
+          "children": []
+        },
+        {
+          "id": 112,
+          "children": []
+        },
+        {
+          "id": 113,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "children": [
+        {
+          "id": 121,
+          "children": []
+        },
+        {
+          "id": 123,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
