@@ -20,6 +20,9 @@
         "name": "Visual Test Route",
         "request": "launch",
         "stopOnEntry": true,
+        "args": [
+          "/v/wicked-games/106062725"
+        ],
         "program": "${workspaceRoot}/tests/route.js"
       },
       {

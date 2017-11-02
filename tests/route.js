@@ -2,7 +2,9 @@
 // The purpose of this file is for viewing class function and debugging
 const Route = require('../lib/route');
 
-const route = new Route('https://www.mountainproject.com/v/go-easy-billy-clyde/106282988');
+const route = new Route({
+  url: process.argv[2],
+});
 
 route.get().then((data) => {
   console.log(data);
