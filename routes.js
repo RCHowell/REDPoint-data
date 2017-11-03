@@ -6,7 +6,7 @@ const Route = require('./lib/route');
 const sqlite3 = require('sqlite3').verbose();
 
 // Number of routes to scrape in parallel
-const N = 100;
+const N = 50;
 
 // Get location of db
 const dbFilename = path.join(__dirname, 'sqlite', 'database.db');
@@ -28,7 +28,9 @@ function getRoutes(routePages) {
     const runners = [];
     routePages.forEach((routePage) => {
       const route = new Route(routePage);
-      runners.push(route.get());
+      runners.push(route.get().catch((err) => {
+        console.log(`Error for route: ${routePage}`);
+      }));
     });
     Promise.all(runners).then((routesData) => {
       resolve(routesData);
@@ -40,9 +42,10 @@ function getRoutes(routePages) {
 }
 
 function insert(route) {
+  // console.log(`Inserting ${route.route_id}: ${route.name}, ${route.url}`);
   db.run(`
     INSERT INTO routes (route_id, name, url, type, length, grade, stars, description, location, protection, needsPermit, permitInfo, number)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `, [
       route.route_id,
       route.name,
@@ -57,7 +60,12 @@ function insert(route) {
       route.needsPermit,
       route.permitInfo,
       route.number,
-    ]);
+    ], (err) => {
+      if (err) {
+        console.log(err);
+        console.log(`Error inserting for ${route}`);
+      }
+    });
 }
 
 db.serialize(() => {
@@ -73,6 +81,7 @@ db.serialize(() => {
     // Slice array in chunks of N routes
     for (let i = 0; i < l; i += N) {
       const chunk = routes.slice(i, i + N);
+      console.log(`Running chunk ${i}-${i + N}`);
       tasks.push(() => getRoutes(chunk));
     }
   });
@@ -85,6 +94,7 @@ db.serialize(() => {
       const flattened = data.reduce((acc, cur) => acc.concat(cur), []);
       db.serialize(() => {
         db.run('BEGIN TRANSACTION');
+        console.log('Inserting to database');
         flattened.forEach(insert);
         db.run('END');
       });
