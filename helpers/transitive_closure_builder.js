@@ -10,7 +10,7 @@ const path = require('path');
 // const tcTable = fs.createWriteStream('./data/tct.tsv');
 
 // Get location of the graph
-const graphFile = path.join(__dirname, 'data', 'graph.json');
+const graphFile = path.join(__dirname, '../data', 'graph.json');
 const graph = JSON.parse(fs.readFileSync(graphFile, {
   encoding: 'utf-8',
 }));

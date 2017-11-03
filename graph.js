@@ -117,4 +117,7 @@ ancestries.forEach((ancestry, id) => {
   }
 });
 
+// Write the graph to standard out
+console.log(JSON.stringify(rootNode));
+
 relationships.end();

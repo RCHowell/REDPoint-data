@@ -11,9 +11,9 @@
       {
         "type": "node",
         "request": "launch",
-        "name": "Test Depth First Search",
+        "name": "Test Graph Building",
         "stopOnEntry": true,
-        "program": "${workspaceRoot}/index.js"
+        "program": "${workspaceRoot}/graph.js"
       },
       {
         "type": "node",

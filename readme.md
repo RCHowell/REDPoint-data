@@ -35,4 +35,7 @@ A **page** is an area or route.
 
 A **relationship** holds the id's of parents and children
 
-
+## Creating the database
+1. Run `node graph.js > graph.json`
+1. Follow instructions in `/sqlite` to create the database and insert relationships and pages
+1. Run `node routes.js` to insert routes table and routes into the database

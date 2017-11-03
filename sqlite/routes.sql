@@ -9,5 +9,7 @@ CREATE TABLE routes(
   description TEXT NOT NULL,
   location TEXT NOT NULL,
   protection TEXT NOT NULL,
-  number INT NOT NULL
+  number INT NOT NULL,
+  needsPermit INT NOT NULL,
+  permitInfo TEXT NOT NULL
 );
