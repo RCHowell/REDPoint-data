@@ -30,6 +30,9 @@
         "name": "Visual Test Area",
         "request": "launch",
         "stopOnEntry": true,
+        "args": [
+          "/area/108387175/the-bears-den"
+        ],
         "program": "${workspaceRoot}/tests/area.js"
       }
     ]

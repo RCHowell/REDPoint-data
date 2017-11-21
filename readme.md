@@ -1,5 +1,8 @@
 # REDPoint-data
 
+## IMPORTANT
+Mountain Project has updated their entire site. The route scraping scripts are now outdated because of this. I will not be updating the scripts until necessary for my other project.
+
 What's this?
 
 I'm working on a project which requires lots of Rock Climbing data! So, this is a repo which has some scraping scripts to get data from Mountain Project. I have it configured to start a depth first search at Kentucky's Red River Gorge, but that could be replaced to start anywhere. Classes in `/lib` can be used to retrieve more information from the page. `index.js` is what constructs the graph of urls and recognizes a page as either a route or an area.
