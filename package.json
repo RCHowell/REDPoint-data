@@ -1,12 +1,8 @@
 {
   "name": "redpoint-data",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Mountain Project Data Scraping",
   "main": "index.js",
-  "scripts": {
-    "test": "jasmine spec.js",
-    "scrape": "node index.js"
-  },
   "author": "R. C. Howell",
   "license": "ISC",
   "dependencies": {

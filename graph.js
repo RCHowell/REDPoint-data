@@ -76,8 +76,7 @@ while (stack.length !== 0) {
     const discoveringAreas = listTitle.search('Areas') !== -1;
     const selector = (discoveringAreas) ? '.lef-nav-row a' : '#left-nav-route-table tbody tr a';
     const type = (discoveringAreas) ? 'area' : 'route';
-    if (discoveringAreas) console.log(`Exploring ${node.name}`);
-    
+    // if (discoveringAreas) console.log(`Exploring ${node.name}`);
     $(selector).each((i, e) => {
       // Replace all single quotes with double single qoutes for sql storage
       const name = $(e).text().replace(/'/g, "''").replace(/"/g, '');
@@ -102,5 +101,8 @@ ancestries.forEach((ancestry, id) => {
     relationships.write(`${parentId}\t${id}\t${depth}\n`);
   }
 });
+
+// Write the graph to standard out
+console.log(JSON.stringify(rootNode));
 
 relationships.end();

@@ -5,10 +5,10 @@ const path = require('path');
 const sqlite3 = require('sqlite3').verbose();
 const Area = require('./lib/area');
 
-const routeNumbers = fs.createWriteStream('./data/route_numbers.tsv');
+const routeNumbers = fs.createWriteStream('../data/route_numbers.tsv');
 
 // Get location of db
-const dbFilename = path.join(__dirname, 'sqlite', 'relations.db');
+const dbFilename = path.join(__dirname, 'sqlite', 'database.db');
 
 const db = new sqlite3.Database(dbFilename, sqlite3.OPEN_READWRITE, (err) => {
   if (err) console.log(err);

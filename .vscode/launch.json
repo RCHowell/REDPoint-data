@@ -11,9 +11,9 @@
       {
         "type": "node",
         "request": "launch",
-        "name": "Test Depth First Search",
+        "name": "Test Graph Building",
         "stopOnEntry": true,
-        "program": "${workspaceRoot}/index.js"
+        "program": "${workspaceRoot}/graph.js"
       },
       {
         "type": "node",
@@ -30,6 +30,9 @@
         "name": "Visual Test Area",
         "request": "launch",
         "stopOnEntry": true,
+        "args": [
+          "/area/108387175/the-bears-den"
+        ],
         "program": "${workspaceRoot}/tests/area.js"
       }
     ]

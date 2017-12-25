@@ -5,15 +5,16 @@ Note: These commands use relative paths so I'm operating under the assumption th
 ```
 .
 ├── data
+│   ├── graph.json (scraped area and route graph)
 │   ├── pages.tsv (name, url, type of mountainproject pages)
 │   ├── relationships.tsv (transitive closure table for areas and routes relationship - including depth)
-│   ├── route_numbers.tsv (one to one relationships with the columns being route_id and route numbers from Left to Right)
 ├── sqlite (Running commands from here)
 │   ├── database.db
 │   ├── join_example.sql
 │   ├── select.sql
-│   ├── tables.sql (page and relationship table)
-│   ├── routes.sql (routes table)
+│   ├── tables.sql (page and relationship table schema)
+│   ├── routes.sql (routes table schema)
+│   ├── areas.sql (areas table schema)
 │   └── tutorial.md
 ```
 
