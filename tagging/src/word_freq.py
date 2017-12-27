@@ -12,9 +12,6 @@ cursor.execute('SELECT * FROM routes')
 corpusTokens = []
 stopwords = nltk.corpus.stopwords.words('english') + list(string.punctuation) + ['...']
 
-# For each route description, tag the words, save all that aren't verbs
-
-
 # Build a massive text of all route descriptions
 routes = cursor.fetchall()
 for route in routes:
