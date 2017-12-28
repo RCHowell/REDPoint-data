@@ -9,7 +9,7 @@ cursor = connection.cursor()
 cursor.execute('SELECT * FROM routes')
 
 # Setup for creating a frequency distribution
-corpusTokens = []
+corpus_tokens = []
 stopwords = nltk.corpus.stopwords.words('english') + list(string.punctuation) + ['...']
 
 # Build a massive text of all route descriptions
@@ -19,8 +19,7 @@ for route in routes:
   tokens = nltk.tokenize.word_tokenize(description)
   tags = nltk.pos_tag(tokens)
   for tag in tags:
-    if 'VB' not in tag[1]: corpusTokens.append(tag[0])
+    if 'VB' not in tag[1]: corpus_tokens.append(tag[0])
 
-# corpus = new Text(corpusTokens)
-dist = nltk.FreqDist(w.lower() for w in corpusTokens if w not in stopwords)
+dist = nltk.FreqDist(w.lower() for w in corpus_tokens if w not in stopwords)
 dist.plot(100, cumulative=False)
