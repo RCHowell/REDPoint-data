@@ -15,18 +15,22 @@ Note: These commands use relative paths so I'm operating under the assumption th
 │   ├── tables.sql (page and relationship table schema)
 │   ├── routes.sql (routes table schema)
 │   ├── areas.sql (areas table schema)
+│   ├── tags.sql (tags table schema)
 │   └── tutorial.md
 ```
 
-### Create databse and insert tables
+## Data Import (After running scraping scripts!)
+
+### Step 1: Create databse and insert tables
 `sqlite3 ./database.db < ./tables.sql`
 
-### Insert TSV
+### Step 2: Insert TSV
 ```
 sqlite3 ./database.db
 .mode tabs
 .import ../data/pages.tsv pages
 .import ../data/relationships.tsv relationships
+.import ../data/tags.tsv tags
 ```
 
 ### Formatted Output
