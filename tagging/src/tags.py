@@ -10,7 +10,7 @@ tag_list = json.loads(file_text)
 connection = sqlite3.connect('../../sqlite/database.db')
 connection.row_factory = sqlite3.Row
 cursor = connection.cursor()
-cursor.execute('SELECT * FROM routes LIMIT 20')
+cursor.execute('SELECT * FROM routes')
 routes = cursor.fetchall()
 
 # Iterate over each route
