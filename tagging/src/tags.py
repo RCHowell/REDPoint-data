@@ -25,4 +25,5 @@ for route in routes:
       if test in description:
         route_tags.append(tag_name)
         break
-  print(route['name'], route_tags)
+  for tag in route_tags:
+    print(str(route['route_id']) + ", " + tag)
