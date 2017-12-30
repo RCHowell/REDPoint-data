@@ -30,6 +30,7 @@ CREATE TABLE routes(
 );
 
 CREATE TABLE tags(
-  FOREIGN KEY (route_id) REFERENCES routes(route_id),
-  tag TEXT NOT NULL
+  tag TEXT NOT NULL,
+  route_id INT NOT NULL,
+  FOREIGN KEY (route_id) REFERENCES routes(route_id)
 );

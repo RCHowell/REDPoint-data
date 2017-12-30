@@ -26,4 +26,4 @@ for route in routes:
         route_tags.append(tag_name)
         break
   for tag in route_tags:
-    print(str(route['route_id']) + ", " + tag)
+    print(tag + "\t" + str(route['route_id']))
