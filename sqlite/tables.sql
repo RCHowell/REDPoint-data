@@ -25,8 +25,9 @@ CREATE TABLE routes(
   location TEXT NOT NULL,
   protection TEXT NOT NULL,
   number INT NOT NULL,
-  needsPermit INT NOT NULL,
-  permitInfo TEXT NOT NULL
+  needs_permit INT NOT NULL,
+  permit_info TEXT NOT NULL,
+  grade_int INT NOT NULL,
 );
 
 CREATE TABLE tags(

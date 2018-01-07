@@ -1,3 +1,5 @@
+// DEPRECATED. NO LONGER UP TO DATE.
+
 const fs = require('fs');
 const path = require('path');
 const csvjson = require('csvjson');

@@ -35,3 +35,13 @@ SELECT
 FROM pages AS P
 INNER JOIN relationships AS R ON R.child_id = P.page_id
 WHERE R.parent_id = 1 AND P.is_route = 0 AND R.depth = 1;
+
+SELECT
+  R.route_id,
+  R.name,
+  (
+    SELECT tag FROM tags
+    LEFT JOIN routes ON routes.route_id = tags.route_id
+  ) tags
+FROM routes as R
+LIMIT 1

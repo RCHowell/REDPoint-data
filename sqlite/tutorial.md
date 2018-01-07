@@ -86,3 +86,8 @@ PRAGMA table_info([tablename]);
 # Show stats for queries
 .stats on
 ```
+
+## Adding a Column to a Table
+```
+ALTER TABLE {tablename} ADD COLUMN {new column} {type}
+``` 
