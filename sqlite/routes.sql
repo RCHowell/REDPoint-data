@@ -13,3 +13,10 @@ CREATE TABLE routes(
   needsPermit INT NOT NULL,
   permitInfo TEXT NOT NULL
 );
+
+CREATE TABLE favorites(
+  -- using strftime('%s', 'now')
+  saved_on INT NOT NULL,
+  route_id INT NOT NULL,
+  FOREIGN KEY (route_id) REFERENCES routes(route_id)
+);
