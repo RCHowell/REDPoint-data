@@ -29,7 +29,7 @@ function getRoutes(routePages) {
     routePages.forEach((routePage) => {
       const route = new Route(routePage);
       runners.push(route.get().catch((err) => {
-        console.log(`Error for route: ${routePage}`);
+        console.log(`Error for route: ${routePage}`, err);
       }));
     });
     Promise.all(runners).then((routesData) => {
@@ -44,8 +44,8 @@ function getRoutes(routePages) {
 function insert(route) {
   // console.log(`Inserting ${route.route_id}: ${route.name}, ${route.url}`);
   db.run(`
-    INSERT INTO routes (route_id, name, url, type, length, grade, stars, description, location, protection, needsPermit, permitInfo, number)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO routes (route_id, name, url, type, length, grade, stars, description, location, protection, needs_permit, permit_info, number, grade_int)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `, [
       route.route_id,
       route.name,
@@ -57,9 +57,10 @@ function insert(route) {
       route.description,
       route.location,
       route.protection,
-      route.needsPermit,
-      route.permitInfo,
+      route.needs_permit,
+      route.permit_info,
       route.number,
+      route.grade_int,
     ], (err) => {
       if (err) {
         console.log(err);

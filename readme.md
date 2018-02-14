@@ -1,7 +1,7 @@
 # REDPoint-data
 
 ## IMPORTANT
-Mountain Project has updated their entire site. The route scraping scripts are now outdated because of this. I will not be updating the scripts until necessary for my other project.
+Mountain Project has updated their entire site. The route scraping scripts are now outdated because of this. I will not be updating the scripts until necessary for my other project. Currently, the `graph.js` script is the only one updated to work with the Mountain Project update.
 
 What's this?
 

@@ -45,23 +45,19 @@ function writeToTSV(node) {
 
 // Setup to perform depth first search
 const discovered = new Map();
-const stack = []; // Javascript arrays behave like stacks
+const stack = [];
 
 // Setup ancestry tracking during the search
 const ancestries = new Map();
 
 // Setup where to start searching from
-const baseUrl = 'https://www.mountainproject.com';
-const rootUrl = '/v/red-river-gorge/105841134';
+const rootUrl = 'https://www.mountainproject.com/area/105841134/red-river-gorge';
 const rootNode = new Node('Red River Gorge', rootUrl, 'area');
 writeToTSV(rootNode);
 
 // Initialize control structures
 stack.push(rootNode);
 ancestries.set(rootNode.id, []);
-
-// Regular expression used for decision making
-const childrenAreAreas = /Select Area.../;
 
 // Begin search to construct graph
 while (stack.length !== 0) {
@@ -70,38 +66,27 @@ while (stack.length !== 0) {
   const newAnsestry = nodeAnsestry.concat(node.id);
   if (discovered.has(node) === false) {
     discovered.set(node.name, true);
-
     // Scrape Info about this node's potential children
-    const res = request('GET', `${baseUrl}${node.url}`);
+    const res = request('GET', node.url);
     const body = res.getBody();
     const $ = cheerio.load(body);
-    const listTitleElement = $('#viewerLeftNavColContent').find('b').get(1);
-    const listTitle = $(listTitleElement).text();
     // List Title tells us what the children are.
+    const listTitle = $('.mp-sidebar h3').text();
     // Set a boolean to true if the children are areas.
-    const discoveringAreas = childrenAreAreas.test(listTitle);
-
-    // This could be refactored, but it's easier to understand like this
-    if (discoveringAreas) {
-      $('#viewerLeftNavColContent').find('a[target=_top]').each((i, e) => {
-        const name = $(e).text().replace(/'/g, "''").replace(/"/g, "");
-        const url = $(e).attr('href');
-        const child = new Node(name, url, 'area');
-        writeToTSV(child);
-        ancestries.set(child.id, newAnsestry);
-        node.addChild(child);
-        stack.push(child);
-      });
-    } else {
-      $('#leftNavRoutes').find('a').each((i, e) => {
-        const name = $(e).text().replace(/'/g, "''").replace(/"/g, "");
-        const url = $(e).attr('href');
-        const child = new Node(name, url, 'route');
-        writeToTSV(child);
-        ancestries.set(child.id, newAnsestry);
-        node.addChild(child);
-      });
-    }
+    const discoveringAreas = listTitle.search('Areas') !== -1;
+    const selector = (discoveringAreas) ? '.lef-nav-row a' : '#left-nav-route-table tbody tr a';
+    const type = (discoveringAreas) ? 'area' : 'route';
+    // if (discoveringAreas) console.log(`Exploring ${node.name}`);
+    $(selector).each((i, e) => {
+      // Replace all single quotes with double single qoutes for sql storage
+      const name = $(e).text().replace(/'/g, "''").replace(/"/g, '');
+      const url = $(e).attr('href');
+      const child = new Node(name, url, type);
+      writeToTSV(child);
+      ancestries.set(child.id, newAnsestry);
+      node.addChild(child);
+      if (discoveringAreas) stack.push(child);
+    });
   }
 }
 

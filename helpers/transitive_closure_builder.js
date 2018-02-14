@@ -6,6 +6,9 @@
 
 const fs = require('fs');
 const path = require('path');
+<<<<<<< HEAD:transitive_closure_builder.js
+const graph = require('./data/graph.json');
+=======
 
 // const tcTable = fs.createWriteStream('./data/tct.tsv');
 
@@ -14,6 +17,7 @@ const graphFile = path.join(__dirname, '../data', 'graph.json');
 const graph = JSON.parse(fs.readFileSync(graphFile, {
   encoding: 'utf-8',
 }));
+>>>>>>> b43336378f18d320915e67af2bc8a0d0766c31a7:helpers/transitive_closure_builder.js
 
 // Control stack for DFS
 const stack = [];

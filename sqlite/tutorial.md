@@ -7,29 +7,63 @@ Note: These commands use relative paths so I'm operating under the assumption th
 ├── data
 │   ├── graph.json (scraped area and route graph)
 │   ├── pages.tsv (name, url, type of mountainproject pages)
+│   ├── tags.tsv (route tags)
 │   ├── relationships.tsv (transitive closure table for areas and routes relationship - including depth)
-├── sqlite (Running commands from here)
+├── sqlite (Running database commands from here)
 │   ├── database.db
-│   ├── join_example.sql
-│   ├── select.sql
-│   ├── tables.sql (page and relationship table schema)
-│   ├── routes.sql (routes table schema)
+│   ├── join_examples.sql
+│   ├── tables.sql (table schemas)
 │   ├── areas.sql (areas table schema)
 │   └── tutorial.md
 ```
 
-### Create databse and insert tables
-`sqlite3 ./database.db < ./tables.sql`
+## Database Tutorial
+> Note: This works fine for now. I may automate this later with gulp.
 
-### Insert TSV
+### Step 1: Construct Graph and .TSV's
 ```
-sqlite3 ./database.db
+# Within the project root
+node ./graph.js > ./data/graph.json
+```
+
+### Step 2: Create Databse and Insert Tables
+```
+# Within ./sqlite/
+sqlite3 database.db < tables.sql
+```
+
+### Step 3: Insert TSV's of Pages and Relationships
+```
+# Within ./sqlite/
+sqlite3 database.db
 .mode tabs
 .import ../data/pages.tsv pages
 .import ../data/relationships.tsv relationships
 ```
 
-### Formatted Output
+### Step 4: Scrape Routes
+```
+# Within the project root
+node ./routes.js
+```
+
+### Step 5: Generate Tags
+```
+# Within ./tagging/
+source ./bin/activate
+cd src
+python tags.py > ../../data/tags.tsv
+```
+
+### Step 6: Insert Tags to Database
+```
+# Within ./sqlite/
+sqlite3 database.db
+.mode tabs
+.import ../data/tags.tsv tags
+```
+
+## Formatted Output
 ```
 .mode column
 .headers on
@@ -38,7 +72,7 @@ sqlite3 ./database.db
 .timer on
 ```
 
-### Describe Database
+## Describe Database
 ```
 # List tables
 .tables
@@ -52,3 +86,8 @@ PRAGMA table_info([tablename]);
 # Show stats for queries
 .stats on
 ```
+
+## Adding a Column to a Table
+```
+ALTER TABLE {tablename} ADD COLUMN {new column} {type}
+``` 
