@@ -27,7 +27,7 @@ CREATE TABLE routes(
   number INT NOT NULL,
   needs_permit INT NOT NULL,
   permit_info TEXT NOT NULL,
-  grade_int INT NOT NULL,
+  grade_int INT NOT NULL
 );
 
 CREATE TABLE favorites(
